@@ -1,0 +1,4 @@
+gradio
+pandas
+rank-bm25
+sentence-transformers
