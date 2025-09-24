@@ -2,3 +2,4 @@ gradio
 pandas
 rank-bm25
 sentence-transformers
+Flask>=2.0

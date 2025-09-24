@@ -1,0 +1,69 @@
+/* static/css/style.css */
+
+/* Theme variables */
+:root {
+  --bg: #f7f9fc;
+  --text: #222;
+  --card-bg: #fff;
+  --muted: #6c757d;
+  --highlight: #fff3b0;
+}
+
+[data-theme="dark"] {
+  --bg: #111;
+  --text: #eaeaea;
+  --card-bg: #1c1c1c;
+  --muted: #9a9a9a;
+  --highlight: #444;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.card {
+  background: var(--card-bg);
+  border: 0;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(20,30,60,0.06);
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.result-item h5 {
+  font-size: 1rem;
+  margin-bottom: 0.35rem;
+  font-weight: 600;
+}
+
+p, small, .meta {
+  color: var(--muted);
+}
+
+mark {
+  background: var(--highlight);
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+/* smaller screens adjustments */
+@media (max-width: 767px) {
+  .card-body {
+    font-size: 0.95rem;
+  }
+}
+
+/* Theme toggle button styling */
+#themeToggle {
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 0.9rem;
+  transition: background 0.2s, color 0.2s;
+}
+
+#themeToggle:hover {
+  background: var(--highlight);
+  color: var(--text);
+}
