@@ -1,0 +1,3325 @@
+{
+  "063be118-cf89-4b80-a1e3-bca947c19166": {
+    "title": "Resources for CDC",
+    "text": "",
+    "parent": null,
+    "children": [
+      "15281a3b-da41-42a7-b843-6c3e889515af",
+      "29523401-a118-4ef4-9c53-e0de7dfaece0",
+      "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+      "37c89fce-7a74-467a-8905-c53d8af6baba",
+      "9473a700-bb3c-41a0-8348-8e833f12a23d",
+      "bf21fc30-a166-4c7b-b919-84330a51aae4",
+      "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+      "cafe9be6-5c7e-441f-97ac-b1d59026712e",
+      "bfe89a3f-fb66-41cc-8467-cc7bcb8600b1"
+    ],
+    "level": 0
+  },
+  "15281a3b-da41-42a7-b843-6c3e889515af": {
+    "title": "Introduction",
+    "text": "RESOURCES FOR CDC\nCompiled by: Sarthak Goyal\nMany of you will be having your CDC in the upcoming semesters. Summers will be the\nmost important time for your preparation. To help everyone be well prepared for the\ntests and interview , we have compiled a list of resources for dif ferent profiles that you\ncan follow .\nThis guide is not exhaustive but it will give a good overview of how to prepare for your\nupcoming CDC. Apart from this, you should also consult your seniors who have got an\ninternship in the respective field you are targeting for a good preparation methodology .\nNow let us look at the profiles one by one:",
+    "parent": "063be118-cf89-4b80-a1e3-bca947c19166",
+    "children": [],
+    "level": 1
+  },
+  "29523401-a118-4ef4-9c53-e0de7dfaece0": {
+    "title": "SOFTWARE",
+    "text": "",
+    "parent": "063be118-cf89-4b80-a1e3-bca947c19166",
+    "children": [
+      "803e11e4-3a10-4479-918a-37c7d966cd55",
+      "de43a913-889e-4176-8c45-c828f114ecd6",
+      "aa8ac84b-1ca0-48cc-84d6-60ae382e30df"
+    ],
+    "level": 1
+  },
+  "803e11e4-3a10-4479-918a-37c7d966cd55": {
+    "title": "To ace the software interview , you need to be goo",
+    "text": "To ace the software interview , you need to be good at\nAlgorithms and Data\nStructures\n. First get the basics of these cleared\nby following some introductory courses\n(like CS21003: Algorithms 1 at our college, the NPTEL  one\nhere\nor any popular course\nthat you can find online.) Then start practising Competitive Programming from the\nsources listed below or websites like Codeforces, Codechef, Leetcode and Interviewbit.\nSometimes\ncore CS concepts\nare also asked:",
+    "parent": "29523401-a118-4ef4-9c53-e0de7dfaece0",
+    "children": [
+      "7bd18091-72e1-4d7b-b78d-f48813abf286",
+      "d5fad00c-908a-4787-8cfd-7092beded25f",
+      "8d65be8c-20c6-4d9b-a5ba-4a8a48123618",
+      "9cc546a2-8b43-42a0-9e0a-555a4db30599",
+      "b42da2a1-cdcb-4e29-afdc-6aca7217950f",
+      "cc06177a-938d-4b8e-9abe-58c815aeeada",
+      "6e07fb1e-5808-4cd2-a9e0-193c073a47c5",
+      "1e84bd28-effd-4d26-b035-e182944a48db",
+      "bb8e4710-ec85-4031-beef-40828b5d1a7f",
+      "6d363350-267f-4da2-ae2f-a42865862a2c",
+      "2fe0aa66-34cd-490c-b4c3-553e148ece36",
+      "e6fbef44-6b37-41a2-a606-e69860b4319c",
+      "9a0cbe42-eab7-4b97-88d5-9f36f0a82470"
+    ],
+    "level": 2
+  },
+  "7bd18091-72e1-4d7b-b78d-f48813abf286": {
+    "title": "To ace the software interview , you need",
+    "text": "To ace the software interview , you need to be good at",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "d5fad00c-908a-4787-8cfd-7092beded25f": {
+    "title": "Algorithms and Data",
+    "text": "Algorithms and Data",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "8d65be8c-20c6-4d9b-a5ba-4a8a48123618": {
+    "title": "Structures",
+    "text": "Structures",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "9cc546a2-8b43-42a0-9e0a-555a4db30599": {
+    "title": ". First get the basics of these cleared",
+    "text": ". First get the basics of these cleared",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "b42da2a1-cdcb-4e29-afdc-6aca7217950f": {
+    "title": "by following some introductory courses",
+    "text": "by following some introductory courses",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "cc06177a-938d-4b8e-9abe-58c815aeeada": {
+    "title": "(like CS21003: Algorithms 1 at our colle",
+    "text": "(like CS21003: Algorithms 1 at our college, the NPTEL  one",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "6e07fb1e-5808-4cd2-a9e0-193c073a47c5": {
+    "title": "here",
+    "text": "here",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "1e84bd28-effd-4d26-b035-e182944a48db": {
+    "title": "or any popular course",
+    "text": "or any popular course",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "bb8e4710-ec85-4031-beef-40828b5d1a7f": {
+    "title": "that you can find online.) Then start pr",
+    "text": "that you can find online.) Then start practising Competitive Programming from the",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "6d363350-267f-4da2-ae2f-a42865862a2c": {
+    "title": "sources listed below or websites like Co",
+    "text": "sources listed below or websites like Codeforces, Codechef, Leetcode and Interviewbit.",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "2fe0aa66-34cd-490c-b4c3-553e148ece36": {
+    "title": "Sometimes",
+    "text": "Sometimes",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "e6fbef44-6b37-41a2-a606-e69860b4319c": {
+    "title": "core CS concepts",
+    "text": "core CS concepts",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "9a0cbe42-eab7-4b97-88d5-9f36f0a82470": {
+    "title": "are also asked:",
+    "text": "are also asked:",
+    "parent": "803e11e4-3a10-4479-918a-37c7d966cd55",
+    "children": [],
+    "level": 3
+  },
+  "de43a913-889e-4176-8c45-c828f114ecd6": {
+    "title": "For 3rd years:",
+    "text": "For 3rd years:\nMainly OOPS is asked to 3rd years.\nSome specific topics in\nOOPS that have been asked previously are access modifiers, virtual functions,\noverloading vs overriding, encapsulation, abstraction. Go through\nhttps://www .geeksforgeeks.org/object-oriented-programming-in-cpp/\nhere or\nhttps://youtube.com/playlist?list=PLlrA TfBNZ98dudnM48yfGUldqGD0S4FFb\nplaylist here",
+    "parent": "29523401-a118-4ef4-9c53-e0de7dfaece0",
+    "children": [
+      "57e05705-5a24-4ce0-ba25-5766adf54308",
+      "7cfae29c-9483-46b4-8502-b7dacb71f652",
+      "16d0b3c2-19dc-4f8e-b890-9b9f01cec1dc",
+      "c2dd3852-0aeb-421d-958f-7bd026dcf0aa",
+      "dbbc89a5-3b89-4c31-a176-3a51ff1c4e65",
+      "176980ec-0322-4ebe-8d21-18f06c84b0a0",
+      "6f2dad84-f51b-4d5d-8c1c-b72c479f6374",
+      "982150e1-cbd6-4591-a474-337f78fa8345",
+      "ffa7246e-1b88-4be3-a576-d02d63dc87c6"
+    ],
+    "level": 2
+  },
+  "57e05705-5a24-4ce0-ba25-5766adf54308": {
+    "title": "For 3rd years:",
+    "text": "For 3rd years:",
+    "parent": "de43a913-889e-4176-8c45-c828f114ecd6",
+    "children": [],
+    "level": 3
+  },
+  "7cfae29c-9483-46b4-8502-b7dacb71f652": {
+    "title": "Mainly OOPS is asked to 3rd years.",
+    "text": "Mainly OOPS is asked to 3rd years.",
+    "parent": "de43a913-889e-4176-8c45-c828f114ecd6",
+    "children": [],
+    "level": 3
+  },
+  "16d0b3c2-19dc-4f8e-b890-9b9f01cec1dc": {
+    "title": "Some specific topics in",
+    "text": "Some specific topics in",
+    "parent": "de43a913-889e-4176-8c45-c828f114ecd6",
+    "children": [],
+    "level": 3
+  },
+  "c2dd3852-0aeb-421d-958f-7bd026dcf0aa": {
+    "title": "OOPS that have been asked previously are",
+    "text": "OOPS that have been asked previously are access modifiers, virtual functions,",
+    "parent": "de43a913-889e-4176-8c45-c828f114ecd6",
+    "children": [],
+    "level": 3
+  },
+  "dbbc89a5-3b89-4c31-a176-3a51ff1c4e65": {
+    "title": "overloading vs overriding, encapsulation",
+    "text": "overloading vs overriding, encapsulation, abstraction. Go through",
+    "parent": "de43a913-889e-4176-8c45-c828f114ecd6",
+    "children": [],
+    "level": 3
+  },
+  "176980ec-0322-4ebe-8d21-18f06c84b0a0": {
+    "title": "https://www .geeksforgeeks.org/object-or",
+    "text": "https://www .geeksforgeeks.org/object-oriented-programming-in-cpp/",
+    "parent": "de43a913-889e-4176-8c45-c828f114ecd6",
+    "children": [],
+    "level": 3
+  },
+  "6f2dad84-f51b-4d5d-8c1c-b72c479f6374": {
+    "title": "here or",
+    "text": "here or",
+    "parent": "de43a913-889e-4176-8c45-c828f114ecd6",
+    "children": [],
+    "level": 3
+  },
+  "982150e1-cbd6-4591-a474-337f78fa8345": {
+    "title": "https://youtube.com/playlist?list=PLlrA ",
+    "text": "https://youtube.com/playlist?list=PLlrA TfBNZ98dudnM48yfGUldqGD0S4FFb",
+    "parent": "de43a913-889e-4176-8c45-c828f114ecd6",
+    "children": [],
+    "level": 3
+  },
+  "ffa7246e-1b88-4be3-a576-d02d63dc87c6": {
+    "title": "playlist here",
+    "text": "playlist here",
+    "parent": "de43a913-889e-4176-8c45-c828f114ecd6",
+    "children": [],
+    "level": 3
+  },
+  "aa8ac84b-1ca0-48cc-84d6-60ae382e30df": {
+    "title": "For 4th years:",
+    "text": "For 4th years:\n4th years need to mainly focus on OOPS,\nOS and Networks. A\nmore thorough preparation might include DBMS as well. The portions covered in\nacademics are more than enough to be decently prepared.\nMore resources for Algorithms and Data Structures Theory\n●\nCP Algorithms website:\nhttps://cp-algorithms.com/\n●\nCP Handbook:\nhttps://drive.google.com/file/d/1UI_5yAdnDrttxT crhwQJ8iOZjFRNR8Nr/view\n●\nCracking the Coding Interview Book\n●\nCode Readability:\nhttp://personal.denison.edu/~havill/style.pdf?fbclid=IwAR1BtDQGJQBm1z0TYLjy\nos2sFGdrAAH_9pUelrrl5v-1A8cP2RNA9ZE2bFs\nTopic W ise Problems For Coding\n●\nBinary Search (fairly imp):\n○\nhttps://www .topcoder .com/community/competitive-programming/tutorials/bi\nnary-search\n●\nSTL (very imp)\n○\nhttps://www .topcoder .com/community/competitive-programming/tutorials/p\nower-up-c-with-the-standard-template-library-part-1/\n○\nhttps://www .topcoder .com/community/competitive-programming/tutorials/p\nower-up-c-with-the-standard-template-library-part-2/\n●\nBit manipulation (very imp)\n○\nhttps://www .geeksforgeeks.org/bits-manipulation-important-tactics/\n●\nMaths (not much asked)\n○\nhttps://docs.google.com/document/d/1VVxbGtPR6eNM8AMFv5VYX8S_k1\nKsh3VfiihmqavdW5Q/edit?usp=sharing\n●\nDP (very imp)\n○\nhttps://docs.google.com/document/d/1MdZlrGHEmIUtrhDDjpguTH-dzytA_\nMNScCEwPSETHTQ/edit\n○\nCan refer to\nhttps://cp-algorithms.com/\n○\nhttps://www .interviewbit.com/\nhas a good section on\nDP.\n●\nGraphs (very imp)\n○\nCan refer to\nhttps://cp-algorithms.com/\n●\nDP on trees(imp):\n○\nhttps://codeforces.com/blog/entry/20935\nGeneral Practice problems\n●\nCodemonk:\nhttps://www .hackerearth.com/practice/codemonk/\n●\nA2OJ:\nhttps://a2oj.com/ladders\n●\nTopic-wise:\n○\nhttps://www .interviewbit.com/\n○\nhttps://docs.google.com/document/d/1z0Mh7F0dxMVWX2u6WEHWR Yqr\nC4kCXyJ4KEHTkkVYdu8/edit\n●\nLeetCode Practice:\nhttps://docs.google.com/spreadsheets/d/1L3cvv0jOKN5hh8GI7iGKG8vmQe81b\nOi4dBKuFV1uUss/edit#gid=1 177592695\nInterview Resources\n●\nTips for interview:\n○\nhttps://m.facebook.com/ishan.ranga/posts/3264412863648431\n○\nhttps://docs.google.com/document/d/1o4_uJrPaah-roIQjxI2G9Uu02Y6kQ4\nPH7RymENy2pl4/edit\n●\nExperiences:\n○\nhttps://cq-iitkharagpur .medium.com/\n○\nhttps://www .linkedin.com/posts/abhishek8899_internship-interview-experie\nnce-abhishek-activity-6691662512074690560-xCgR/\n○\nhttps://codeclub-iitkgp.medium.com/interview-blogs-archive-7849828ed38\n1\n○\nhttps://nitinkgp23.github.io/2020/09/23/A-to-Z-guide-to-your-campus-place\nments/?fbclid=IwAR3pH6HZ4KCA-DyquhbabRXttGhRH00zIhxo8jg8_Kn-\nGAp9xpFO5NbImWk\n●\nSome More Resources on Github\n○\nhttps://github.com/jnikhilreddy/Competitive-programming-resources?fbclid\n=IwAR2rJ9ta9elC-H_HQUB2rKaMb6eJKUJw63nU1 1CYGlavpM0kN6NDY\nqoYDOQ\n○\nhttps://github.com/lnishan/awesome-competitive-programming?fbclid=IwA\nR2W ucce017r91pb_hL yOeuQGDhF3i8cVcV AUJtE3tIZP5hxev-FBdZvTpM",
+    "parent": "29523401-a118-4ef4-9c53-e0de7dfaece0",
+    "children": [
+      "72e0393b-332c-44fa-bc3a-3008f01bbc72",
+      "75435268-586b-44dc-8d79-cdff989c386e",
+      "b0cd6c7f-ae2b-4a77-9a10-a83744a0924c",
+      "b13b9ca6-821c-4c61-b8c8-7cd8939cf1b6",
+      "ca54dcf3-bbf3-4c3b-b90c-3316720db385",
+      "47cc7bec-6814-4283-9654-fff4c97d2d16",
+      "50088ba6-5998-40ae-b053-82b5d65fda63",
+      "9e66d6d9-f9bd-433d-8863-38e5282fee91",
+      "c874273d-0e9b-430f-801d-d4580d6f63ef",
+      "b6213a05-407f-4b8c-b61a-4d6c9d64d8a1",
+      "db266975-a45b-4e79-b642-f614fa420162",
+      "a421391b-463f-4ed3-8918-14e8efe6c27c",
+      "65104eb9-f206-4910-b1fc-2f83d84deb7e",
+      "f0898a46-037e-4dca-b1f0-09354ba3d3fd",
+      "c9dd7e61-f627-4342-9e85-240038cb4369",
+      "a7c5a5cb-fc98-4aac-b09d-dd2847f0c024",
+      "d17c4417-9670-40b9-955c-ef8f4833d344",
+      "11a77aeb-1327-40aa-a2ea-d2cb3a5bc5ab",
+      "9cc31ff6-8249-4f00-b170-178f9606b99d",
+      "dd4c5f67-50a5-42d7-8ffa-b61fc8538475",
+      "cda6e7a9-9cc6-495c-90ec-4e8cc0259046",
+      "e47f2885-62a8-4b2f-993c-29f3ff2b04f8",
+      "140ea25a-0b7d-41cb-b456-92bfcfba8151",
+      "49c0ce4f-8e77-44a4-8bfb-eed24aeb50cc",
+      "d582810e-efe1-4487-a897-2a9c842d3a51",
+      "8bf3505d-bd22-4586-99d9-e8de8ea24408",
+      "8668e990-6e93-4394-9f1a-49915cf006bc",
+      "c4346b39-1d73-43e9-95c9-2550e9f8d530",
+      "b74bbf96-2736-473b-8545-90c50a03005e",
+      "d7bb6858-dc2c-4351-89ba-2e76b5a7237d",
+      "e70487db-87b0-41bc-8668-d65ddf65fbf2",
+      "57a40412-2f45-48dc-9c5a-d9a2e25bae84",
+      "4baa7f9f-7fda-4378-9c68-724d13483f63",
+      "f27e0cda-4278-4153-9c09-ffd769060c0d",
+      "e7062488-9f9b-4ff0-8cff-2e8482c23f74",
+      "5cf91105-b73a-4606-b59a-dce781f67b55",
+      "d3ad1185-691a-4daf-8335-d59c7e59ff40",
+      "d6765712-f3f3-490f-8a9e-9a55158d2ace",
+      "19851fba-8309-4a2b-8564-aae6b9238c8b",
+      "82e595ac-8b7e-4cca-953c-a673d650efe4",
+      "b25437c3-d894-444f-9222-4ff3dea289db",
+      "2f687152-ec9c-4bcc-9c83-b424b05fa338",
+      "c4b7baf5-1c52-4f1b-8429-e852ad87f64d",
+      "912fd0e4-28a5-4807-a812-ebb2744d4237",
+      "8a30de08-5939-4859-91e4-f9ab30402ed8",
+      "8c7fe4e7-5d92-492a-a420-7252f7eb49c6",
+      "384b539e-3e45-490f-a6d1-0a052b0baeee",
+      "69ad244e-7763-4b5c-ae99-a7e91fd27705",
+      "bf4cf295-88ff-4c83-8548-23b24c59608f",
+      "d6956ff8-f0ea-40f4-8a35-a694a7e440ef",
+      "4a936072-4b6b-4231-8351-ff295f0f2487",
+      "35a24110-142e-4a55-a0a1-4cd291d3c851",
+      "f7ab2110-b213-4b85-9cfb-e114c916a897",
+      "66309011-04ce-4a91-8a4e-d57e0892692d",
+      "cf5b85ed-78b5-4115-bd19-07b7aeb919e6",
+      "5f8be317-bb93-4d74-8060-cb90587eee60",
+      "7b9da0a8-7d4e-45b1-b221-072066c8479b",
+      "d908995d-96ee-415f-babc-92bd6932ade3",
+      "6916347d-23b8-4d4e-acad-5a2603a9b201",
+      "e27a586a-e0b2-4022-b141-4972a96c8f41",
+      "141c613a-e07d-4c44-82cd-8b5e4f70ef95",
+      "d3702d52-c807-4a40-ae1c-ac47a09a6f13",
+      "0108db88-1bfa-4c9d-9a59-03af47feb291",
+      "c1c90e34-d57e-4095-b813-069527faf84f",
+      "a81bd953-cfd5-4b7d-9917-367120deb816",
+      "3cfcf05e-9310-455e-bdaa-c6047b901491",
+      "9b974d1a-ec9d-4e23-9ef5-7768dfd4998b",
+      "319b98f8-0b61-4546-91d0-c279ea417137",
+      "1465254c-83c7-4ef9-904e-88453ef4ce8f",
+      "8cd456eb-1810-46ca-9b7b-538874d63d90",
+      "40d6ae94-4d01-4f8c-b452-fadb549e0057",
+      "0eb3b249-c972-4a8f-8191-fbcad05bfc6f",
+      "dc1ac1b9-802e-44b1-9cf7-10aa5448af53",
+      "ff1f1023-ea34-452e-bd22-1b6a215a65f0",
+      "0559e692-58ef-4ac9-92ec-01d55dcea95d",
+      "bdffecd0-17c9-467f-890e-6cb48d013774",
+      "c0a75093-d475-45ea-8a0d-99f4c6efad20",
+      "365d667d-1a4c-40e6-bc74-f947f6f43cab",
+      "f3413f3b-4e5c-4d86-a13f-02dacc222904",
+      "31217663-104d-4cd5-9459-e0a833b4c858",
+      "e7b202fc-2f8c-4805-b2b9-5f46c7f58936",
+      "856e3bea-9479-4ad1-8cee-b14b4720e6e1",
+      "58a8aaba-e9fe-411e-899c-53853faf31cb",
+      "2ebf1399-55b4-42ab-91c6-9d27e31095a8",
+      "7f1e71cf-67d6-48d3-85c0-e0b27d808659",
+      "b91a49ab-b797-4677-bd71-15ac3b63e8e3",
+      "970028c7-39eb-4cd9-89f7-fd954d418373",
+      "21dbd9ab-c4e1-4d26-8018-39250704aff7",
+      "81e5ed48-3b0f-417c-83f6-92c6992abb8b",
+      "22e8b6d5-64f6-496e-b030-6ca1f9094dc0",
+      "3fadd371-0191-400b-8e45-2e61be54baaa",
+      "db62239c-1497-4796-adc2-85424c6c4069",
+      "e1c48583-db02-44a6-875c-60da0e11e951",
+      "6c6e3995-d36c-42a9-9a78-09e4ca374c38",
+      "32f98544-d3c9-4615-b22b-39e4a9ec4189",
+      "fc5ab92b-4af3-4834-ba9f-8f3aa05d1557",
+      "0d6e77c0-6ab5-46a5-8ed5-a720553b9b1e",
+      "6cd00b76-899c-44c6-93dd-7cb6a2c2ca21",
+      "4c9ed4de-582f-410d-a192-3acf857d9d16",
+      "b8b29ae4-0e2f-492c-ae2a-d535c9cda4ba",
+      "f5b01df5-8a77-44f1-9d2d-94ff161f0cd5",
+      "43342183-7216-48c8-a3e3-54be52ebf8b3",
+      "ca48dc6b-ab3d-4ceb-a8b9-de8c5d9fa4ef",
+      "2f241134-c6be-476b-acbd-a9434150623d",
+      "4cd1bfd3-eef8-424b-9bc3-daeea77c5142",
+      "a265f146-0dc4-451e-9550-0d47cf87e85c",
+      "9f2e7ded-2b8f-4a45-be35-6eef49c2e6af",
+      "28eda302-30dd-49c1-8b1a-cbb1046b9785",
+      "a2ff238c-50d9-4179-ad53-a8bfebc6771f",
+      "2653483a-fcd1-4e58-8353-378ffa5dfdca",
+      "35ad95d8-beb3-4e8d-996f-92f40787736f"
+    ],
+    "level": 2
+  },
+  "72e0393b-332c-44fa-bc3a-3008f01bbc72": {
+    "title": "For 4th years:",
+    "text": "For 4th years:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "75435268-586b-44dc-8d79-cdff989c386e": {
+    "title": "4th years need to mainly focus on OOPS,",
+    "text": "4th years need to mainly focus on OOPS,",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "b0cd6c7f-ae2b-4a77-9a10-a83744a0924c": {
+    "title": "OS and Networks. A",
+    "text": "OS and Networks. A",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "b13b9ca6-821c-4c61-b8c8-7cd8939cf1b6": {
+    "title": "more thorough preparation might include ",
+    "text": "more thorough preparation might include DBMS as well. The portions covered in",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "ca54dcf3-bbf3-4c3b-b90c-3316720db385": {
+    "title": "academics are more than enough to be dec",
+    "text": "academics are more than enough to be decently prepared.",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "47cc7bec-6814-4283-9654-fff4c97d2d16": {
+    "title": "More resources for Algorithms and Data S",
+    "text": "More resources for Algorithms and Data Structures Theory",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "50088ba6-5998-40ae-b053-82b5d65fda63": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "9e66d6d9-f9bd-433d-8863-38e5282fee91": {
+    "title": "CP Algorithms website:",
+    "text": "CP Algorithms website:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "c874273d-0e9b-430f-801d-d4580d6f63ef": {
+    "title": "https://cp-algorithms.com/",
+    "text": "https://cp-algorithms.com/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "b6213a05-407f-4b8c-b61a-4d6c9d64d8a1": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "db266975-a45b-4e79-b642-f614fa420162": {
+    "title": "CP Handbook:",
+    "text": "CP Handbook:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "a421391b-463f-4ed3-8918-14e8efe6c27c": {
+    "title": "https://drive.google.com/file/d/1UI_5yAd",
+    "text": "https://drive.google.com/file/d/1UI_5yAdnDrttxT crhwQJ8iOZjFRNR8Nr/view",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "65104eb9-f206-4910-b1fc-2f83d84deb7e": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "f0898a46-037e-4dca-b1f0-09354ba3d3fd": {
+    "title": "Cracking the Coding Interview Book",
+    "text": "Cracking the Coding Interview Book",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "c9dd7e61-f627-4342-9e85-240038cb4369": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "a7c5a5cb-fc98-4aac-b09d-dd2847f0c024": {
+    "title": "Code Readability:",
+    "text": "Code Readability:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "d17c4417-9670-40b9-955c-ef8f4833d344": {
+    "title": "http://personal.denison.edu/~havill/styl",
+    "text": "http://personal.denison.edu/~havill/style.pdf?fbclid=IwAR1BtDQGJQBm1z0TYLjy",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "11a77aeb-1327-40aa-a2ea-d2cb3a5bc5ab": {
+    "title": "os2sFGdrAAH_9pUelrrl5v-1A8cP2RNA9ZE2bFs",
+    "text": "os2sFGdrAAH_9pUelrrl5v-1A8cP2RNA9ZE2bFs",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "9cc31ff6-8249-4f00-b170-178f9606b99d": {
+    "title": "Topic W ise Problems For Coding",
+    "text": "Topic W ise Problems For Coding",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "dd4c5f67-50a5-42d7-8ffa-b61fc8538475": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "cda6e7a9-9cc6-495c-90ec-4e8cc0259046": {
+    "title": "Binary Search (fairly imp):",
+    "text": "Binary Search (fairly imp):",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "e47f2885-62a8-4b2f-993c-29f3ff2b04f8": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "140ea25a-0b7d-41cb-b456-92bfcfba8151": {
+    "title": "https://www .topcoder .com/community/com",
+    "text": "https://www .topcoder .com/community/competitive-programming/tutorials/bi",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "49c0ce4f-8e77-44a4-8bfb-eed24aeb50cc": {
+    "title": "nary-search",
+    "text": "nary-search",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "d582810e-efe1-4487-a897-2a9c842d3a51": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "8bf3505d-bd22-4586-99d9-e8de8ea24408": {
+    "title": "STL (very imp)",
+    "text": "STL (very imp)",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "8668e990-6e93-4394-9f1a-49915cf006bc": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "c4346b39-1d73-43e9-95c9-2550e9f8d530": {
+    "title": "https://www .topcoder .com/community/com",
+    "text": "https://www .topcoder .com/community/competitive-programming/tutorials/p",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "b74bbf96-2736-473b-8545-90c50a03005e": {
+    "title": "ower-up-c-with-the-standard-template-lib",
+    "text": "ower-up-c-with-the-standard-template-library-part-1/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "d7bb6858-dc2c-4351-89ba-2e76b5a7237d": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "e70487db-87b0-41bc-8668-d65ddf65fbf2": {
+    "title": "https://www .topcoder .com/community/com",
+    "text": "https://www .topcoder .com/community/competitive-programming/tutorials/p",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "57a40412-2f45-48dc-9c5a-d9a2e25bae84": {
+    "title": "ower-up-c-with-the-standard-template-lib",
+    "text": "ower-up-c-with-the-standard-template-library-part-2/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "4baa7f9f-7fda-4378-9c68-724d13483f63": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "f27e0cda-4278-4153-9c09-ffd769060c0d": {
+    "title": "Bit manipulation (very imp)",
+    "text": "Bit manipulation (very imp)",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "e7062488-9f9b-4ff0-8cff-2e8482c23f74": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "5cf91105-b73a-4606-b59a-dce781f67b55": {
+    "title": "https://www .geeksforgeeks.org/bits-mani",
+    "text": "https://www .geeksforgeeks.org/bits-manipulation-important-tactics/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "d3ad1185-691a-4daf-8335-d59c7e59ff40": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "d6765712-f3f3-490f-8a9e-9a55158d2ace": {
+    "title": "Maths (not much asked)",
+    "text": "Maths (not much asked)",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "19851fba-8309-4a2b-8564-aae6b9238c8b": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "82e595ac-8b7e-4cca-953c-a673d650efe4": {
+    "title": "https://docs.google.com/document/d/1VVxb",
+    "text": "https://docs.google.com/document/d/1VVxbGtPR6eNM8AMFv5VYX8S_k1",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "b25437c3-d894-444f-9222-4ff3dea289db": {
+    "title": "Ksh3VfiihmqavdW5Q/edit?usp=sharing",
+    "text": "Ksh3VfiihmqavdW5Q/edit?usp=sharing",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "2f687152-ec9c-4bcc-9c83-b424b05fa338": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "c4b7baf5-1c52-4f1b-8429-e852ad87f64d": {
+    "title": "DP (very imp)",
+    "text": "DP (very imp)",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "912fd0e4-28a5-4807-a812-ebb2744d4237": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "8a30de08-5939-4859-91e4-f9ab30402ed8": {
+    "title": "https://docs.google.com/document/d/1MdZl",
+    "text": "https://docs.google.com/document/d/1MdZlrGHEmIUtrhDDjpguTH-dzytA_",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "8c7fe4e7-5d92-492a-a420-7252f7eb49c6": {
+    "title": "MNScCEwPSETHTQ/edit",
+    "text": "MNScCEwPSETHTQ/edit",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "384b539e-3e45-490f-a6d1-0a052b0baeee": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "69ad244e-7763-4b5c-ae99-a7e91fd27705": {
+    "title": "Can refer to",
+    "text": "Can refer to",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "bf4cf295-88ff-4c83-8548-23b24c59608f": {
+    "title": "https://cp-algorithms.com/",
+    "text": "https://cp-algorithms.com/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "d6956ff8-f0ea-40f4-8a35-a694a7e440ef": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "4a936072-4b6b-4231-8351-ff295f0f2487": {
+    "title": "https://www .interviewbit.com/",
+    "text": "https://www .interviewbit.com/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "35a24110-142e-4a55-a0a1-4cd291d3c851": {
+    "title": "has a good section on",
+    "text": "has a good section on",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "f7ab2110-b213-4b85-9cfb-e114c916a897": {
+    "title": "DP.",
+    "text": "DP.",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "66309011-04ce-4a91-8a4e-d57e0892692d": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "cf5b85ed-78b5-4115-bd19-07b7aeb919e6": {
+    "title": "Graphs (very imp)",
+    "text": "Graphs (very imp)",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "5f8be317-bb93-4d74-8060-cb90587eee60": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "7b9da0a8-7d4e-45b1-b221-072066c8479b": {
+    "title": "Can refer to",
+    "text": "Can refer to",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "d908995d-96ee-415f-babc-92bd6932ade3": {
+    "title": "https://cp-algorithms.com/",
+    "text": "https://cp-algorithms.com/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "6916347d-23b8-4d4e-acad-5a2603a9b201": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "e27a586a-e0b2-4022-b141-4972a96c8f41": {
+    "title": "DP on trees(imp):",
+    "text": "DP on trees(imp):",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "141c613a-e07d-4c44-82cd-8b5e4f70ef95": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "d3702d52-c807-4a40-ae1c-ac47a09a6f13": {
+    "title": "https://codeforces.com/blog/entry/20935",
+    "text": "https://codeforces.com/blog/entry/20935",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "0108db88-1bfa-4c9d-9a59-03af47feb291": {
+    "title": "General Practice problems",
+    "text": "General Practice problems",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "c1c90e34-d57e-4095-b813-069527faf84f": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "a81bd953-cfd5-4b7d-9917-367120deb816": {
+    "title": "Codemonk:",
+    "text": "Codemonk:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "3cfcf05e-9310-455e-bdaa-c6047b901491": {
+    "title": "https://www .hackerearth.com/practice/co",
+    "text": "https://www .hackerearth.com/practice/codemonk/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "9b974d1a-ec9d-4e23-9ef5-7768dfd4998b": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "319b98f8-0b61-4546-91d0-c279ea417137": {
+    "title": "A2OJ:",
+    "text": "A2OJ:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "1465254c-83c7-4ef9-904e-88453ef4ce8f": {
+    "title": "https://a2oj.com/ladders",
+    "text": "https://a2oj.com/ladders",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "8cd456eb-1810-46ca-9b7b-538874d63d90": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "40d6ae94-4d01-4f8c-b452-fadb549e0057": {
+    "title": "Topic-wise:",
+    "text": "Topic-wise:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "0eb3b249-c972-4a8f-8191-fbcad05bfc6f": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "dc1ac1b9-802e-44b1-9cf7-10aa5448af53": {
+    "title": "https://www .interviewbit.com/",
+    "text": "https://www .interviewbit.com/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "ff1f1023-ea34-452e-bd22-1b6a215a65f0": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "0559e692-58ef-4ac9-92ec-01d55dcea95d": {
+    "title": "https://docs.google.com/document/d/1z0Mh",
+    "text": "https://docs.google.com/document/d/1z0Mh7F0dxMVWX2u6WEHWR Yqr",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "bdffecd0-17c9-467f-890e-6cb48d013774": {
+    "title": "C4kCXyJ4KEHTkkVYdu8/edit",
+    "text": "C4kCXyJ4KEHTkkVYdu8/edit",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "c0a75093-d475-45ea-8a0d-99f4c6efad20": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "365d667d-1a4c-40e6-bc74-f947f6f43cab": {
+    "title": "LeetCode Practice:",
+    "text": "LeetCode Practice:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "f3413f3b-4e5c-4d86-a13f-02dacc222904": {
+    "title": "https://docs.google.com/spreadsheets/d/1",
+    "text": "https://docs.google.com/spreadsheets/d/1L3cvv0jOKN5hh8GI7iGKG8vmQe81b",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "31217663-104d-4cd5-9459-e0a833b4c858": {
+    "title": "Oi4dBKuFV1uUss/edit#gid=1 177592695",
+    "text": "Oi4dBKuFV1uUss/edit#gid=1 177592695",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "e7b202fc-2f8c-4805-b2b9-5f46c7f58936": {
+    "title": "Interview Resources",
+    "text": "Interview Resources",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "856e3bea-9479-4ad1-8cee-b14b4720e6e1": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "58a8aaba-e9fe-411e-899c-53853faf31cb": {
+    "title": "Tips for interview:",
+    "text": "Tips for interview:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "2ebf1399-55b4-42ab-91c6-9d27e31095a8": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "7f1e71cf-67d6-48d3-85c0-e0b27d808659": {
+    "title": "https://m.facebook.com/ishan.ranga/posts",
+    "text": "https://m.facebook.com/ishan.ranga/posts/3264412863648431",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "b91a49ab-b797-4677-bd71-15ac3b63e8e3": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "970028c7-39eb-4cd9-89f7-fd954d418373": {
+    "title": "https://docs.google.com/document/d/1o4_u",
+    "text": "https://docs.google.com/document/d/1o4_uJrPaah-roIQjxI2G9Uu02Y6kQ4",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "21dbd9ab-c4e1-4d26-8018-39250704aff7": {
+    "title": "PH7RymENy2pl4/edit",
+    "text": "PH7RymENy2pl4/edit",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "81e5ed48-3b0f-417c-83f6-92c6992abb8b": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "22e8b6d5-64f6-496e-b030-6ca1f9094dc0": {
+    "title": "Experiences:",
+    "text": "Experiences:",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "3fadd371-0191-400b-8e45-2e61be54baaa": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "db62239c-1497-4796-adc2-85424c6c4069": {
+    "title": "https://cq-iitkharagpur .medium.com/",
+    "text": "https://cq-iitkharagpur .medium.com/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "e1c48583-db02-44a6-875c-60da0e11e951": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "6c6e3995-d36c-42a9-9a78-09e4ca374c38": {
+    "title": "https://www .linkedin.com/posts/abhishek",
+    "text": "https://www .linkedin.com/posts/abhishek8899_internship-interview-experie",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "32f98544-d3c9-4615-b22b-39e4a9ec4189": {
+    "title": "nce-abhishek-activity-669166251207469056",
+    "text": "nce-abhishek-activity-6691662512074690560-xCgR/",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "fc5ab92b-4af3-4834-ba9f-8f3aa05d1557": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "0d6e77c0-6ab5-46a5-8ed5-a720553b9b1e": {
+    "title": "https://codeclub-iitkgp.medium.com/inter",
+    "text": "https://codeclub-iitkgp.medium.com/interview-blogs-archive-7849828ed38",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "6cd00b76-899c-44c6-93dd-7cb6a2c2ca21": {
+    "title": "1",
+    "text": "1",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "4c9ed4de-582f-410d-a192-3acf857d9d16": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "b8b29ae4-0e2f-492c-ae2a-d535c9cda4ba": {
+    "title": "https://nitinkgp23.github.io/2020/09/23/",
+    "text": "https://nitinkgp23.github.io/2020/09/23/A-to-Z-guide-to-your-campus-place",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "f5b01df5-8a77-44f1-9d2d-94ff161f0cd5": {
+    "title": "ments/?fbclid=IwAR3pH6HZ4KCA-DyquhbabRXt",
+    "text": "ments/?fbclid=IwAR3pH6HZ4KCA-DyquhbabRXttGhRH00zIhxo8jg8_Kn-",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "43342183-7216-48c8-a3e3-54be52ebf8b3": {
+    "title": "GAp9xpFO5NbImWk",
+    "text": "GAp9xpFO5NbImWk",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "ca48dc6b-ab3d-4ceb-a8b9-de8c5d9fa4ef": {
+    "title": "●",
+    "text": "●",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "2f241134-c6be-476b-acbd-a9434150623d": {
+    "title": "Some More Resources on Github",
+    "text": "Some More Resources on Github",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "4cd1bfd3-eef8-424b-9bc3-daeea77c5142": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "a265f146-0dc4-451e-9550-0d47cf87e85c": {
+    "title": "https://github.com/jnikhilreddy/Competit",
+    "text": "https://github.com/jnikhilreddy/Competitive-programming-resources?fbclid",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "9f2e7ded-2b8f-4a45-be35-6eef49c2e6af": {
+    "title": "=IwAR2rJ9ta9elC-H_HQUB2rKaMb6eJKUJw63nU1",
+    "text": "=IwAR2rJ9ta9elC-H_HQUB2rKaMb6eJKUJw63nU1 1CYGlavpM0kN6NDY",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "28eda302-30dd-49c1-8b1a-cbb1046b9785": {
+    "title": "qoYDOQ",
+    "text": "qoYDOQ",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "a2ff238c-50d9-4179-ad53-a8bfebc6771f": {
+    "title": "○",
+    "text": "○",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "2653483a-fcd1-4e58-8353-378ffa5dfdca": {
+    "title": "https://github.com/lnishan/awesome-compe",
+    "text": "https://github.com/lnishan/awesome-competitive-programming?fbclid=IwA",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "35ad95d8-beb3-4e8d-996f-92f40787736f": {
+    "title": "R2W ucce017r91pb_hL yOeuQGDhF3i8cVcV AUJ",
+    "text": "R2W ucce017r91pb_hL yOeuQGDhF3i8cVcV AUJtE3tIZP5hxev-FBdZvTpM",
+    "parent": "aa8ac84b-1ca0-48cc-84d6-60ae382e30df",
+    "children": [],
+    "level": 3
+  },
+  "43c866ad-2548-41d9-b62b-17d8fbc2a0fc": {
+    "title": "ML / DL  / AI / DA TA",
+    "text": "",
+    "parent": "063be118-cf89-4b80-a1e3-bca947c19166",
+    "children": [
+      "c374919e-80d5-407e-bdf9-2b54aea2b378",
+      "687e67a0-43d0-4331-98ca-2bc608b8d61c",
+      "3894be41-fbb9-4f6f-a98f-ea7f40c9d8dc",
+      "6adfaf3f-664d-4e73-be74-76f53a8b62f2",
+      "af011cb2-30a9-4f50-8030-a5f59c7aeca9",
+      "ca640c91-faf4-4aba-b20d-d25d8a33dbc9",
+      "4d736c41-771c-4eb1-8f74-f93ac3d78b63",
+      "5705adf1-cab5-47f2-ab82-1f124e8d5883",
+      "77c6e168-09ad-4ac5-94db-24b55e9256cf",
+      "b5b7820e-b284-4b6a-9eb5-48c7175afc62",
+      "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+      "46dea425-2cf7-4865-87c9-1cf3586e0023",
+      "abd47a2e-f635-4eec-a2c9-e5b75ac35755",
+      "82d50dc1-e8fd-469d-9e25-38817d00435c",
+      "cf2a5793-44e1-4139-bbc3-842a83b52def",
+      "347802d7-0218-4c6e-b1ce-0a6f2e2a71cf"
+    ],
+    "level": 1
+  },
+  "c374919e-80d5-407e-bdf9-2b54aea2b378": {
+    "title": "1.",
+    "text": "1.\nYou will first need to be familiar with the basic mathematics behind Machine\nLearning. This knowledge can be gained through courses in our institute on the\ntopics:\nProbability and Statistics\nand\nLinear Algebra.",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "cfd57778-e5c0-451a-bde3-3854cb1f324e",
+      "504a568d-a5d5-42f2-acb1-065edbc97b6b",
+      "c8958406-bb16-4a6f-9089-d68717c96e85",
+      "36d04362-c267-4b81-b555-276a7eaafb06",
+      "ab2746bd-e841-448a-9623-33b3de548835",
+      "4254ce80-9237-4248-8463-f7f47e250a68",
+      "557482e2-6032-45a9-b6e6-00aa2f027839"
+    ],
+    "level": 2
+  },
+  "cfd57778-e5c0-451a-bde3-3854cb1f324e": {
+    "title": "1.",
+    "text": "1.",
+    "parent": "c374919e-80d5-407e-bdf9-2b54aea2b378",
+    "children": [],
+    "level": 3
+  },
+  "504a568d-a5d5-42f2-acb1-065edbc97b6b": {
+    "title": "You will first need to be familiar with ",
+    "text": "You will first need to be familiar with the basic mathematics behind Machine",
+    "parent": "c374919e-80d5-407e-bdf9-2b54aea2b378",
+    "children": [],
+    "level": 3
+  },
+  "c8958406-bb16-4a6f-9089-d68717c96e85": {
+    "title": "Learning. This knowledge can be gained t",
+    "text": "Learning. This knowledge can be gained through courses in our institute on the",
+    "parent": "c374919e-80d5-407e-bdf9-2b54aea2b378",
+    "children": [],
+    "level": 3
+  },
+  "36d04362-c267-4b81-b555-276a7eaafb06": {
+    "title": "topics:",
+    "text": "topics:",
+    "parent": "c374919e-80d5-407e-bdf9-2b54aea2b378",
+    "children": [],
+    "level": 3
+  },
+  "ab2746bd-e841-448a-9623-33b3de548835": {
+    "title": "Probability and Statistics",
+    "text": "Probability and Statistics",
+    "parent": "c374919e-80d5-407e-bdf9-2b54aea2b378",
+    "children": [],
+    "level": 3
+  },
+  "4254ce80-9237-4248-8463-f7f47e250a68": {
+    "title": "and",
+    "text": "and",
+    "parent": "c374919e-80d5-407e-bdf9-2b54aea2b378",
+    "children": [],
+    "level": 3
+  },
+  "557482e2-6032-45a9-b6e6-00aa2f027839": {
+    "title": "Linear Algebra.",
+    "text": "Linear Algebra.",
+    "parent": "c374919e-80d5-407e-bdf9-2b54aea2b378",
+    "children": [],
+    "level": 3
+  },
+  "687e67a0-43d0-4331-98ca-2bc608b8d61c": {
+    "title": "You can also practise questions from",
+    "text": "You can also practise questions from\n50 challenging\nproblems in\nprobability",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "d9cdf3b3-bf43-452c-ac34-e3ac9ea7441a",
+      "bb859b50-2823-4f4c-a59d-3e765e4aa8e8",
+      "26e40596-c4a5-4722-a708-cd5198c653c9",
+      "e1a44db7-08f8-442e-8f63-9a8aebb1ee3f"
+    ],
+    "level": 2
+  },
+  "d9cdf3b3-bf43-452c-ac34-e3ac9ea7441a": {
+    "title": "You can also practise questions from",
+    "text": "You can also practise questions from",
+    "parent": "687e67a0-43d0-4331-98ca-2bc608b8d61c",
+    "children": [],
+    "level": 3
+  },
+  "bb859b50-2823-4f4c-a59d-3e765e4aa8e8": {
+    "title": "50 challenging",
+    "text": "50 challenging",
+    "parent": "687e67a0-43d0-4331-98ca-2bc608b8d61c",
+    "children": [],
+    "level": 3
+  },
+  "26e40596-c4a5-4722-a708-cd5198c653c9": {
+    "title": "problems in",
+    "text": "problems in",
+    "parent": "687e67a0-43d0-4331-98ca-2bc608b8d61c",
+    "children": [],
+    "level": 3
+  },
+  "e1a44db7-08f8-442e-8f63-9a8aebb1ee3f": {
+    "title": "probability",
+    "text": "probability",
+    "parent": "687e67a0-43d0-4331-98ca-2bc608b8d61c",
+    "children": [],
+    "level": 3
+  },
+  "3894be41-fbb9-4f6f-a98f-ea7f40c9d8dc": {
+    "title": "If you want to study through video lectures you ca",
+    "text": "If you want to study through video lectures you can follow\nStats 1 10",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "b7e7a943-4bff-474a-9d31-34cffb7ca5c7",
+      "ffe4c389-8a5a-44f0-80ae-a2c702dcf8c0"
+    ],
+    "level": 2
+  },
+  "b7e7a943-4bff-474a-9d31-34cffb7ca5c7": {
+    "title": "If you want to study through video lectu",
+    "text": "If you want to study through video lectures you can follow",
+    "parent": "3894be41-fbb9-4f6f-a98f-ea7f40c9d8dc",
+    "children": [],
+    "level": 3
+  },
+  "ffe4c389-8a5a-44f0-80ae-a2c702dcf8c0": {
+    "title": "Stats 1 10",
+    "text": "Stats 1 10",
+    "parent": "3894be41-fbb9-4f6f-a98f-ea7f40c9d8dc",
+    "children": [],
+    "level": 3
+  },
+  "6adfaf3f-664d-4e73-be74-76f53a8b62f2": {
+    "title": "If you are a book person then follow",
+    "text": "If you are a book person then follow\nProb & Stats\nby Montgomery",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "066e3c12-669b-4b24-8b42-81db7d35b95e",
+      "5ece7e63-9409-495a-8783-3da385a6c78d",
+      "62dddc3e-8498-4ffc-929d-a04d25806e0b"
+    ],
+    "level": 2
+  },
+  "066e3c12-669b-4b24-8b42-81db7d35b95e": {
+    "title": "If you are a book person then follow",
+    "text": "If you are a book person then follow",
+    "parent": "6adfaf3f-664d-4e73-be74-76f53a8b62f2",
+    "children": [],
+    "level": 3
+  },
+  "5ece7e63-9409-495a-8783-3da385a6c78d": {
+    "title": "Prob & Stats",
+    "text": "Prob & Stats",
+    "parent": "6adfaf3f-664d-4e73-be74-76f53a8b62f2",
+    "children": [],
+    "level": 3
+  },
+  "62dddc3e-8498-4ffc-929d-a04d25806e0b": {
+    "title": "by Montgomery",
+    "text": "by Montgomery",
+    "parent": "6adfaf3f-664d-4e73-be74-76f53a8b62f2",
+    "children": [],
+    "level": 3
+  },
+  "af011cb2-30a9-4f50-8030-a5f59c7aeca9": {
+    "title": "To solve good dice problems look at",
+    "text": "To solve good dice problems look at\nhttps://www .madandmoonly .com/doctormatt/mathematics/dice1.pdf",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "4b806364-b930-4836-b246-ac422812c2f4",
+      "17414791-9898-4333-8029-6dd6ea10e41a"
+    ],
+    "level": 2
+  },
+  "4b806364-b930-4836-b246-ac422812c2f4": {
+    "title": "To solve good dice problems look at",
+    "text": "To solve good dice problems look at",
+    "parent": "af011cb2-30a9-4f50-8030-a5f59c7aeca9",
+    "children": [],
+    "level": 3
+  },
+  "17414791-9898-4333-8029-6dd6ea10e41a": {
+    "title": "https://www .madandmoonly .com/doctormat",
+    "text": "https://www .madandmoonly .com/doctormatt/mathematics/dice1.pdf",
+    "parent": "af011cb2-30a9-4f50-8030-a5f59c7aeca9",
+    "children": [],
+    "level": 3
+  },
+  "ca640c91-faf4-4aba-b20d-d25d8a33dbc9": {
+    "title": "Then you can learn the basics of",
+    "text": "Then you can learn the basics of\nPython\nand important libraries like Numpy ,\nPandas, Matplotlib",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "e8e8350d-6b5d-4db8-96bc-76779cffac9f",
+      "6e4098e4-b2c2-4e72-bc71-236ed746390c",
+      "4db4a57e-da57-485f-a796-b3b9460ccf80",
+      "63c8c850-da7a-41ba-963c-c38b97686f52"
+    ],
+    "level": 2
+  },
+  "e8e8350d-6b5d-4db8-96bc-76779cffac9f": {
+    "title": "Then you can learn the basics of",
+    "text": "Then you can learn the basics of",
+    "parent": "ca640c91-faf4-4aba-b20d-d25d8a33dbc9",
+    "children": [],
+    "level": 3
+  },
+  "6e4098e4-b2c2-4e72-bc71-236ed746390c": {
+    "title": "Python",
+    "text": "Python",
+    "parent": "ca640c91-faf4-4aba-b20d-d25d8a33dbc9",
+    "children": [],
+    "level": 3
+  },
+  "4db4a57e-da57-485f-a796-b3b9460ccf80": {
+    "title": "and important libraries like Numpy ,",
+    "text": "and important libraries like Numpy ,",
+    "parent": "ca640c91-faf4-4aba-b20d-d25d8a33dbc9",
+    "children": [],
+    "level": 3
+  },
+  "63c8c850-da7a-41ba-963c-c38b97686f52": {
+    "title": "Pandas, Matplotlib",
+    "text": "Pandas, Matplotlib",
+    "parent": "ca640c91-faf4-4aba-b20d-d25d8a33dbc9",
+    "children": [],
+    "level": 3
+  },
+  "4d736c41-771c-4eb1-8f74-f93ac3d78b63": {
+    "title": "Then you can start with",
+    "text": "Then you can start with\nMachine Learning Courses\n.\nNote that you need not do\neverything here. Just browse through these courses and pick one that you like.",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "cbf2420a-ca21-4620-8a49-2c16718baba9",
+      "a82911e0-a626-4d28-af36-1c713dc134b0",
+      "078edcae-5e48-4786-897d-f11810e2f7ca",
+      "fda47f5e-f2d9-4c37-96b4-67964bd4e464",
+      "bbad2806-3ed8-4c4b-9a8b-8a2108b5ce5d"
+    ],
+    "level": 2
+  },
+  "cbf2420a-ca21-4620-8a49-2c16718baba9": {
+    "title": "Then you can start with",
+    "text": "Then you can start with",
+    "parent": "4d736c41-771c-4eb1-8f74-f93ac3d78b63",
+    "children": [],
+    "level": 3
+  },
+  "a82911e0-a626-4d28-af36-1c713dc134b0": {
+    "title": "Machine Learning Courses",
+    "text": "Machine Learning Courses",
+    "parent": "4d736c41-771c-4eb1-8f74-f93ac3d78b63",
+    "children": [],
+    "level": 3
+  },
+  "078edcae-5e48-4786-897d-f11810e2f7ca": {
+    "title": ".",
+    "text": ".",
+    "parent": "4d736c41-771c-4eb1-8f74-f93ac3d78b63",
+    "children": [],
+    "level": 3
+  },
+  "fda47f5e-f2d9-4c37-96b4-67964bd4e464": {
+    "title": "Note that you need not do",
+    "text": "Note that you need not do",
+    "parent": "4d736c41-771c-4eb1-8f74-f93ac3d78b63",
+    "children": [],
+    "level": 3
+  },
+  "bbad2806-3ed8-4c4b-9a8b-8a2108b5ce5d": {
+    "title": "everything here. Just browse through the",
+    "text": "everything here. Just browse through these courses and pick one that you like.",
+    "parent": "4d736c41-771c-4eb1-8f74-f93ac3d78b63",
+    "children": [],
+    "level": 3
+  },
+  "5705adf1-cab5-47f2-ab82-1f124e8d5883": {
+    "title": "Machine Learning by Andrew NG",
+    "text": "Machine Learning by Andrew NG\non\nCoursera\nor\nYoutube\n.\nMake sure\nyou solve the programming exercises.",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "f375e3eb-5ba5-4929-9b43-b61e3cdf23b5",
+      "3ac7b64b-becf-452e-8e3a-028b0149f7ce",
+      "0ca69d30-9781-4d71-bf54-81f05d2c6b98",
+      "d6878ef2-ec6b-4154-b989-e44706968062",
+      "1b6c0398-8ab8-46aa-9ab1-3d06593a01cd",
+      "7be8743c-d9f4-43f1-b8a1-c4575b0cab41",
+      "ccfecd3b-201e-42c1-a779-67c42c107297",
+      "e7677879-7a86-4cb4-9ac8-ac68e0c135db"
+    ],
+    "level": 2
+  },
+  "f375e3eb-5ba5-4929-9b43-b61e3cdf23b5": {
+    "title": "Machine Learning by Andrew NG",
+    "text": "Machine Learning by Andrew NG",
+    "parent": "5705adf1-cab5-47f2-ab82-1f124e8d5883",
+    "children": [],
+    "level": 3
+  },
+  "3ac7b64b-becf-452e-8e3a-028b0149f7ce": {
+    "title": "on",
+    "text": "on",
+    "parent": "5705adf1-cab5-47f2-ab82-1f124e8d5883",
+    "children": [],
+    "level": 3
+  },
+  "0ca69d30-9781-4d71-bf54-81f05d2c6b98": {
+    "title": "Coursera",
+    "text": "Coursera",
+    "parent": "5705adf1-cab5-47f2-ab82-1f124e8d5883",
+    "children": [],
+    "level": 3
+  },
+  "d6878ef2-ec6b-4154-b989-e44706968062": {
+    "title": "or",
+    "text": "or",
+    "parent": "5705adf1-cab5-47f2-ab82-1f124e8d5883",
+    "children": [],
+    "level": 3
+  },
+  "1b6c0398-8ab8-46aa-9ab1-3d06593a01cd": {
+    "title": "Youtube",
+    "text": "Youtube",
+    "parent": "5705adf1-cab5-47f2-ab82-1f124e8d5883",
+    "children": [],
+    "level": 3
+  },
+  "7be8743c-d9f4-43f1-b8a1-c4575b0cab41": {
+    "title": ".",
+    "text": ".",
+    "parent": "5705adf1-cab5-47f2-ab82-1f124e8d5883",
+    "children": [],
+    "level": 3
+  },
+  "ccfecd3b-201e-42c1-a779-67c42c107297": {
+    "title": "Make sure",
+    "text": "Make sure",
+    "parent": "5705adf1-cab5-47f2-ab82-1f124e8d5883",
+    "children": [],
+    "level": 3
+  },
+  "e7677879-7a86-4cb4-9ac8-ac68e0c135db": {
+    "title": "you solve the programming exercises.",
+    "text": "you solve the programming exercises.",
+    "parent": "5705adf1-cab5-47f2-ab82-1f124e8d5883",
+    "children": [],
+    "level": 3
+  },
+  "77c6e168-09ad-4ac5-94db-24b55e9256cf": {
+    "title": "Deep Learning Specialisation",
+    "text": "Deep Learning Specialisation\non\nCoursera",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "bfdf0aee-1312-419e-8127-952f2485b16a",
+      "aac72087-d6c6-4d3c-9964-c6348164195f",
+      "6a900f04-8a3d-433e-a41d-f73ab5b22381"
+    ],
+    "level": 2
+  },
+  "bfdf0aee-1312-419e-8127-952f2485b16a": {
+    "title": "Deep Learning Specialisation",
+    "text": "Deep Learning Specialisation",
+    "parent": "77c6e168-09ad-4ac5-94db-24b55e9256cf",
+    "children": [],
+    "level": 3
+  },
+  "aac72087-d6c6-4d3c-9964-c6348164195f": {
+    "title": "on",
+    "text": "on",
+    "parent": "77c6e168-09ad-4ac5-94db-24b55e9256cf",
+    "children": [],
+    "level": 3
+  },
+  "6a900f04-8a3d-433e-a41d-f73ab5b22381": {
+    "title": "Coursera",
+    "text": "Coursera",
+    "parent": "77c6e168-09ad-4ac5-94db-24b55e9256cf",
+    "children": [],
+    "level": 3
+  },
+  "b5b7820e-b284-4b6a-9eb5-48c7175afc62": {
+    "title": "The Andrew NG courses though extremely popular are",
+    "text": "The Andrew NG courses though extremely popular are a bit outdated. You\ncan follow\nJovian DL: Zero to GANS\nand\nJovian ML:\nZero to GBMs\nfor a\nmore application-oriented introduction to ML  and DL",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "e0e43972-f270-43b6-9f63-010fce913b2d",
+      "dfd7da60-36eb-405a-a686-c78b72321165",
+      "9abed1ca-851a-4fed-b7a7-c1242ef0ce9c",
+      "f2e5c756-cd25-42ad-9e74-3559929f24f8",
+      "62a3ba5c-7508-4e3b-9a14-0fd41d3d4ff3",
+      "323f54b1-a133-46bf-92c3-ea484f82d11f",
+      "576f5057-3aea-4174-b0d0-a1f53afe2de9",
+      "09694046-e5f1-4697-b155-6408ee4312b7"
+    ],
+    "level": 2
+  },
+  "e0e43972-f270-43b6-9f63-010fce913b2d": {
+    "title": "The Andrew NG courses though extremely p",
+    "text": "The Andrew NG courses though extremely popular are a bit outdated. You",
+    "parent": "b5b7820e-b284-4b6a-9eb5-48c7175afc62",
+    "children": [],
+    "level": 3
+  },
+  "dfd7da60-36eb-405a-a686-c78b72321165": {
+    "title": "can follow",
+    "text": "can follow",
+    "parent": "b5b7820e-b284-4b6a-9eb5-48c7175afc62",
+    "children": [],
+    "level": 3
+  },
+  "9abed1ca-851a-4fed-b7a7-c1242ef0ce9c": {
+    "title": "Jovian DL: Zero to GANS",
+    "text": "Jovian DL: Zero to GANS",
+    "parent": "b5b7820e-b284-4b6a-9eb5-48c7175afc62",
+    "children": [],
+    "level": 3
+  },
+  "f2e5c756-cd25-42ad-9e74-3559929f24f8": {
+    "title": "and",
+    "text": "and",
+    "parent": "b5b7820e-b284-4b6a-9eb5-48c7175afc62",
+    "children": [],
+    "level": 3
+  },
+  "62a3ba5c-7508-4e3b-9a14-0fd41d3d4ff3": {
+    "title": "Jovian ML:",
+    "text": "Jovian ML:",
+    "parent": "b5b7820e-b284-4b6a-9eb5-48c7175afc62",
+    "children": [],
+    "level": 3
+  },
+  "323f54b1-a133-46bf-92c3-ea484f82d11f": {
+    "title": "Zero to GBMs",
+    "text": "Zero to GBMs",
+    "parent": "b5b7820e-b284-4b6a-9eb5-48c7175afc62",
+    "children": [],
+    "level": 3
+  },
+  "576f5057-3aea-4174-b0d0-a1f53afe2de9": {
+    "title": "for a",
+    "text": "for a",
+    "parent": "b5b7820e-b284-4b6a-9eb5-48c7175afc62",
+    "children": [],
+    "level": 3
+  },
+  "09694046-e5f1-4697-b155-6408ee4312b7": {
+    "title": "more application-oriented introduction t",
+    "text": "more application-oriented introduction to ML  and DL",
+    "parent": "b5b7820e-b284-4b6a-9eb5-48c7175afc62",
+    "children": [],
+    "level": 3
+  },
+  "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca": {
+    "title": "For a more theoretical coverage of DL, you can fol",
+    "text": "For a more theoretical coverage of DL, you can follow\nStanford Courses\nlike\nCS231n\nfor Computer V ision and\nCS224n\nfor NLP .\nMake sure you\nalso visit their course web pages and solve the programming\nassignments. If you get stuck, you will find their solutions on Github easily .",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "718a8af5-eeb0-484b-8790-ab9207ad1efa",
+      "5dc75e1a-d5a8-45db-9022-66e6b7c9ea3d",
+      "178c5f4d-8c3b-4014-aad5-c663d48c87a4",
+      "5e503dfa-3187-4567-bd1c-2e8b11bef41d",
+      "66aa2149-2733-4da7-9d4e-87c2b36dcb9f",
+      "4820b26d-7d14-4e5d-b076-6451adcf8f65",
+      "2e71f508-f4d8-4cd6-9322-60185b0a413f",
+      "54ec7407-c0b3-471e-98fe-5064a443d810",
+      "74e610c0-9fdb-4f94-9718-ff9d1a6af6df",
+      "b2910844-463c-4b4b-bd63-0812e3b88822"
+    ],
+    "level": 2
+  },
+  "718a8af5-eeb0-484b-8790-ab9207ad1efa": {
+    "title": "For a more theoretical coverage of DL, y",
+    "text": "For a more theoretical coverage of DL, you can follow",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "5dc75e1a-d5a8-45db-9022-66e6b7c9ea3d": {
+    "title": "Stanford Courses",
+    "text": "Stanford Courses",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "178c5f4d-8c3b-4014-aad5-c663d48c87a4": {
+    "title": "like",
+    "text": "like",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "5e503dfa-3187-4567-bd1c-2e8b11bef41d": {
+    "title": "CS231n",
+    "text": "CS231n",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "66aa2149-2733-4da7-9d4e-87c2b36dcb9f": {
+    "title": "for Computer V ision and",
+    "text": "for Computer V ision and",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "4820b26d-7d14-4e5d-b076-6451adcf8f65": {
+    "title": "CS224n",
+    "text": "CS224n",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "2e71f508-f4d8-4cd6-9322-60185b0a413f": {
+    "title": "for NLP .",
+    "text": "for NLP .",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "54ec7407-c0b3-471e-98fe-5064a443d810": {
+    "title": "Make sure you",
+    "text": "Make sure you",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "74e610c0-9fdb-4f94-9718-ff9d1a6af6df": {
+    "title": "also visit their course web pages and so",
+    "text": "also visit their course web pages and solve the programming",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "b2910844-463c-4b4b-bd63-0812e3b88822": {
+    "title": "assignments. If you get stuck, you will ",
+    "text": "assignments. If you get stuck, you will find their solutions on Github easily .",
+    "parent": "60a7b624-f9fe-4a2f-ab28-8db872a4d9ca",
+    "children": [],
+    "level": 3
+  },
+  "46dea425-2cf7-4865-87c9-1cf3586e0023": {
+    "title": "You can move on to programming practice now",
+    "text": "You can move on to programming practice now",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "4735145e-2e0a-4bf9-9c89-d9b8c752cc3e"
+    ],
+    "level": 2
+  },
+  "4735145e-2e0a-4bf9-9c89-d9b8c752cc3e": {
+    "title": "You can move on to programming practice ",
+    "text": "You can move on to programming practice now",
+    "parent": "46dea425-2cf7-4865-87c9-1cf3586e0023",
+    "children": [],
+    "level": 3
+  },
+  "abd47a2e-f635-4eec-a2c9-e5b75ac35755": {
+    "title": "Create an account on",
+    "text": "Create an account on\nKaggle\nand start giving competitions\nfrom there.",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "ea8ffbda-bc78-412e-af2b-9568bb8a97d7",
+      "6d5b4e56-9bef-4f21-af16-29b34ff7c1a2",
+      "dea9589a-df11-4648-b4ce-ef03dfdcfbc5",
+      "504d754f-6ca3-4913-ac6d-b3c93190ed30"
+    ],
+    "level": 2
+  },
+  "ea8ffbda-bc78-412e-af2b-9568bb8a97d7": {
+    "title": "Create an account on",
+    "text": "Create an account on",
+    "parent": "abd47a2e-f635-4eec-a2c9-e5b75ac35755",
+    "children": [],
+    "level": 3
+  },
+  "6d5b4e56-9bef-4f21-af16-29b34ff7c1a2": {
+    "title": "Kaggle",
+    "text": "Kaggle",
+    "parent": "abd47a2e-f635-4eec-a2c9-e5b75ac35755",
+    "children": [],
+    "level": 3
+  },
+  "dea9589a-df11-4648-b4ce-ef03dfdcfbc5": {
+    "title": "and start giving competitions",
+    "text": "and start giving competitions",
+    "parent": "abd47a2e-f635-4eec-a2c9-e5b75ac35755",
+    "children": [],
+    "level": 3
+  },
+  "504d754f-6ca3-4913-ac6d-b3c93190ed30": {
+    "title": "from there.",
+    "text": "from there.",
+    "parent": "abd47a2e-f635-4eec-a2c9-e5b75ac35755",
+    "children": [],
+    "level": 3
+  },
+  "82d50dc1-e8fd-469d-9e25-38817d00435c": {
+    "title": "Try to do some",
+    "text": "Try to do some\nhands-on project\nfollowing a video\nfrom Youtube or some\nBlog",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "bd4567d6-3725-4dfa-858c-51be291ed5eb",
+      "1d0e4594-5673-49a7-b92c-978c248e6ca3",
+      "45efc87e-2100-49b3-953d-b939f7bdf851",
+      "0f755161-68d9-4982-83e1-db53f43d7d5b",
+      "88b1c059-e50b-4c6f-9e52-da46aff24523"
+    ],
+    "level": 2
+  },
+  "bd4567d6-3725-4dfa-858c-51be291ed5eb": {
+    "title": "Try to do some",
+    "text": "Try to do some",
+    "parent": "82d50dc1-e8fd-469d-9e25-38817d00435c",
+    "children": [],
+    "level": 3
+  },
+  "1d0e4594-5673-49a7-b92c-978c248e6ca3": {
+    "title": "hands-on project",
+    "text": "hands-on project",
+    "parent": "82d50dc1-e8fd-469d-9e25-38817d00435c",
+    "children": [],
+    "level": 3
+  },
+  "45efc87e-2100-49b3-953d-b939f7bdf851": {
+    "title": "following a video",
+    "text": "following a video",
+    "parent": "82d50dc1-e8fd-469d-9e25-38817d00435c",
+    "children": [],
+    "level": 3
+  },
+  "0f755161-68d9-4982-83e1-db53f43d7d5b": {
+    "title": "from Youtube or some",
+    "text": "from Youtube or some",
+    "parent": "82d50dc1-e8fd-469d-9e25-38817d00435c",
+    "children": [],
+    "level": 3
+  },
+  "88b1c059-e50b-4c6f-9e52-da46aff24523": {
+    "title": "Blog",
+    "text": "Blog",
+    "parent": "82d50dc1-e8fd-469d-9e25-38817d00435c",
+    "children": [],
+    "level": 3
+  },
+  "cf2a5793-44e1-4139-bbc3-842a83b52def": {
+    "title": "To get",
+    "text": "To get\npractical experience\nin this domain, you can\napply for projects under\nKGP  Professors or startups working in this domain.",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "b2ceaec8-05d5-4fb2-82cc-ed79ab05d77f",
+      "53b3c150-aa61-4c72-8fe6-ba9805597866",
+      "bf71421c-8c70-430d-a1f0-2a5f305e862f",
+      "542bea5a-0068-4958-9980-94f6964843b8",
+      "8edacdc3-2fd1-4cb0-9021-89ac972428b4"
+    ],
+    "level": 2
+  },
+  "b2ceaec8-05d5-4fb2-82cc-ed79ab05d77f": {
+    "title": "To get",
+    "text": "To get",
+    "parent": "cf2a5793-44e1-4139-bbc3-842a83b52def",
+    "children": [],
+    "level": 3
+  },
+  "53b3c150-aa61-4c72-8fe6-ba9805597866": {
+    "title": "practical experience",
+    "text": "practical experience",
+    "parent": "cf2a5793-44e1-4139-bbc3-842a83b52def",
+    "children": [],
+    "level": 3
+  },
+  "bf71421c-8c70-430d-a1f0-2a5f305e862f": {
+    "title": "in this domain, you can",
+    "text": "in this domain, you can",
+    "parent": "cf2a5793-44e1-4139-bbc3-842a83b52def",
+    "children": [],
+    "level": 3
+  },
+  "542bea5a-0068-4958-9980-94f6964843b8": {
+    "title": "apply for projects under",
+    "text": "apply for projects under",
+    "parent": "cf2a5793-44e1-4139-bbc3-842a83b52def",
+    "children": [],
+    "level": 3
+  },
+  "8edacdc3-2fd1-4cb0-9021-89ac972428b4": {
+    "title": "KGP  Professors or startups working in t",
+    "text": "KGP  Professors or startups working in this domain.",
+    "parent": "cf2a5793-44e1-4139-bbc3-842a83b52def",
+    "children": [],
+    "level": 3
+  },
+  "347802d7-0218-4c6e-b1ce-0a6f2e2a71cf": {
+    "title": "Machine Learning Tips",
+    "text": "Machine Learning Tips",
+    "parent": "43c866ad-2548-41d9-b62b-17d8fbc2a0fc",
+    "children": [
+      "b84fd4e5-31a3-45fc-9e10-28f456d9ab04"
+    ],
+    "level": 2
+  },
+  "b84fd4e5-31a3-45fc-9e10-28f456d9ab04": {
+    "title": "Machine Learning Tips",
+    "text": "Machine Learning Tips",
+    "parent": "347802d7-0218-4c6e-b1ce-0a6f2e2a71cf",
+    "children": [],
+    "level": 3
+  },
+  "37c89fce-7a74-467a-8905-c53d8af6baba": {
+    "title": "QUANT PROFILE",
+    "text": "",
+    "parent": "063be118-cf89-4b80-a1e3-bca947c19166",
+    "children": [
+      "4ed99ea6-81df-45a8-944d-9c72f4ad0397"
+    ],
+    "level": 1
+  },
+  "4ed99ea6-81df-45a8-944d-9c72f4ad0397": {
+    "title": "For resources on Quant Profile, you can refer to t",
+    "text": "For resources on Quant Profile, you can refer to the following\ndoc\nby\nQuant Club, IIT\nKharagpur",
+    "parent": "37c89fce-7a74-467a-8905-c53d8af6baba",
+    "children": [
+      "cfb286a0-f5ec-4982-86d5-3b88b4c8740e",
+      "99659e98-05e1-4851-a623-770dc5c534ee",
+      "83d045ec-7922-46b6-8c61-b18ba4eeba7a",
+      "6e22cfd3-fa61-443a-bb73-da46e6ab47ec",
+      "72079c32-b13b-479a-b987-218332f55d30"
+    ],
+    "level": 2
+  },
+  "cfb286a0-f5ec-4982-86d5-3b88b4c8740e": {
+    "title": "For resources on Quant Profile, you can ",
+    "text": "For resources on Quant Profile, you can refer to the following",
+    "parent": "4ed99ea6-81df-45a8-944d-9c72f4ad0397",
+    "children": [],
+    "level": 3
+  },
+  "99659e98-05e1-4851-a623-770dc5c534ee": {
+    "title": "doc",
+    "text": "doc",
+    "parent": "4ed99ea6-81df-45a8-944d-9c72f4ad0397",
+    "children": [],
+    "level": 3
+  },
+  "83d045ec-7922-46b6-8c61-b18ba4eeba7a": {
+    "title": "by",
+    "text": "by",
+    "parent": "4ed99ea6-81df-45a8-944d-9c72f4ad0397",
+    "children": [],
+    "level": 3
+  },
+  "6e22cfd3-fa61-443a-bb73-da46e6ab47ec": {
+    "title": "Quant Club, IIT",
+    "text": "Quant Club, IIT",
+    "parent": "4ed99ea6-81df-45a8-944d-9c72f4ad0397",
+    "children": [],
+    "level": 3
+  },
+  "72079c32-b13b-479a-b987-218332f55d30": {
+    "title": "Kharagpur",
+    "text": "Kharagpur",
+    "parent": "4ed99ea6-81df-45a8-944d-9c72f4ad0397",
+    "children": [],
+    "level": 3
+  },
+  "9473a700-bb3c-41a0-8348-8e833f12a23d": {
+    "title": "FINANCE PROFILE",
+    "text": "",
+    "parent": "063be118-cf89-4b80-a1e3-bca947c19166",
+    "children": [
+      "b544fef5-89d3-422a-9a98-54fc738ab011",
+      "ef0f6950-fe44-4723-8e3b-3a8c7c3f430e",
+      "95a218a6-7475-4d0f-ade8-6a2744c49261"
+    ],
+    "level": 1
+  },
+  "b544fef5-89d3-422a-9a98-54fc738ab011": {
+    "title": "For a Finance profile, it is necessary to have a d",
+    "text": "For a Finance profile, it is necessary to have a decent background in Finance on your\nCV through projects/internships/competitions. Recruiters are generally looking towards\nfinding an inclination towards Finance on your CV while shortlisting your resume, hence\na well balanced CV with a decent CGP A increases your chances.\nFollowing is a comprehensive roadmap a beginner can follow to explore the realms of\nFinance and consider forging a career in the same :-\nhttps://medium.com/@financeclubiitr/roadmap-to-learning-finance-f3ba8efba298\nIn order to learn how to trade and explore the basics of dif ferent asset classes, one can\nread the Zerodha modules and pursue Coursera courses.\nhttps://zerodha.com/varsity/\nYou can also refer to the following books for an extensive introduction and advanced\nunderstanding if you have decided to go into depth:-",
+    "parent": "9473a700-bb3c-41a0-8348-8e833f12a23d",
+    "children": [
+      "067f7e5f-0cf6-4d33-99b8-386735fea7c6",
+      "b7482c5c-9af8-43f6-99a4-02395aad8d3a",
+      "92df354b-0370-4924-bcae-300b485329ad",
+      "b153fd88-15ec-4484-b569-bb496d18c1bf",
+      "e7add2b9-8e17-4865-97a3-11ad3a97b548",
+      "e46aff3e-592b-4743-8fa4-887f9d67b324",
+      "ce7d12e4-57c6-4290-b46b-fa87dc36fbc0",
+      "fe11605f-ccb8-4572-91a2-413d0db07604",
+      "17a478e4-ffc2-4206-a94d-ec323a1a9a16",
+      "e628734c-71a6-437d-8a4e-5bddd0cf41f9",
+      "971c135c-430a-4705-bf6d-1fc71b06688c",
+      "022de073-535c-45f8-a820-364fea9ba882"
+    ],
+    "level": 2
+  },
+  "067f7e5f-0cf6-4d33-99b8-386735fea7c6": {
+    "title": "For a Finance profile, it is necessary t",
+    "text": "For a Finance profile, it is necessary to have a decent background in Finance on your",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "b7482c5c-9af8-43f6-99a4-02395aad8d3a": {
+    "title": "CV through projects/internships/competit",
+    "text": "CV through projects/internships/competitions. Recruiters are generally looking towards",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "92df354b-0370-4924-bcae-300b485329ad": {
+    "title": "finding an inclination towards Finance o",
+    "text": "finding an inclination towards Finance on your CV while shortlisting your resume, hence",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "b153fd88-15ec-4484-b569-bb496d18c1bf": {
+    "title": "a well balanced CV with a decent CGP A i",
+    "text": "a well balanced CV with a decent CGP A increases your chances.",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "e7add2b9-8e17-4865-97a3-11ad3a97b548": {
+    "title": "Following is a comprehensive roadmap a b",
+    "text": "Following is a comprehensive roadmap a beginner can follow to explore the realms of",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "e46aff3e-592b-4743-8fa4-887f9d67b324": {
+    "title": "Finance and consider forging a career in",
+    "text": "Finance and consider forging a career in the same :-",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "ce7d12e4-57c6-4290-b46b-fa87dc36fbc0": {
+    "title": "https://medium.com/@financeclubiitr/road",
+    "text": "https://medium.com/@financeclubiitr/roadmap-to-learning-finance-f3ba8efba298",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "fe11605f-ccb8-4572-91a2-413d0db07604": {
+    "title": "In order to learn how to trade and explo",
+    "text": "In order to learn how to trade and explore the basics of dif ferent asset classes, one can",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "17a478e4-ffc2-4206-a94d-ec323a1a9a16": {
+    "title": "read the Zerodha modules and pursue Cour",
+    "text": "read the Zerodha modules and pursue Coursera courses.",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "e628734c-71a6-437d-8a4e-5bddd0cf41f9": {
+    "title": "https://zerodha.com/varsity/",
+    "text": "https://zerodha.com/varsity/",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "971c135c-430a-4705-bf6d-1fc71b06688c": {
+    "title": "You can also refer to the following book",
+    "text": "You can also refer to the following books for an extensive introduction and advanced",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "022de073-535c-45f8-a820-364fea9ba882": {
+    "title": "understanding if you have decided to go ",
+    "text": "understanding if you have decided to go into depth:-",
+    "parent": "b544fef5-89d3-422a-9a98-54fc738ab011",
+    "children": [],
+    "level": 3
+  },
+  "ef0f6950-fe44-4723-8e3b-3a8c7c3f430e": {
+    "title": "Investments 1 1th Edition : Bodie, Marcus, Kane (I",
+    "text": "Investments 1 1th Edition : Bodie, Marcus, Kane (Intermediary)",
+    "parent": "9473a700-bb3c-41a0-8348-8e833f12a23d",
+    "children": [
+      "04c1fbab-b8b4-4aae-8a96-59561085a038"
+    ],
+    "level": 2
+  },
+  "04c1fbab-b8b4-4aae-8a96-59561085a038": {
+    "title": "Investments 1 1th Edition : Bodie, Marcu",
+    "text": "Investments 1 1th Edition : Bodie, Marcus, Kane (Intermediary)",
+    "parent": "ef0f6950-fe44-4723-8e3b-3a8c7c3f430e",
+    "children": [],
+    "level": 3
+  },
+  "95a218a6-7475-4d0f-ade8-6a2744c49261": {
+    "title": "Options, Futures & Other Derivatives : J.C. Hull (",
+    "text": "Options, Futures & Other Derivatives : J.C. Hull (Advanced)\nAs for projects and interns you can apply to various Business Schools through email,\nCorporates via Linkedin. Trading, Stock Pitch & Portfolio Management competitions\ncontinue to happen all throughout the year and can be found on the Dare2Compete\nwebsite.\nYou can also take additional courses from V inod Gupta School of Management,\nconsider applying for a Masters in Financial Engineering to foster your interest in the\nfield and increase your chances of getting a shortlist.\nFrom an internship/placement point of perspective, most companies have a CV shortlist\nfollowed by direct interviews. Some companies would have a quant/coding test to filter\nin the first round. You are expected to be extremely well versed with every word on your\nCV, idea about the markets & the area of Finance pertaining to the job description.",
+    "parent": "9473a700-bb3c-41a0-8348-8e833f12a23d",
+    "children": [
+      "90bc06ce-74a9-407a-ae93-b6b5cf490096",
+      "66ed5d46-0e16-43a6-ae9d-84c30fad53ca",
+      "d5cd2f0b-d5f9-4d21-aa59-7bcfdb255c4f",
+      "8ac2098a-d7b2-4465-9715-ba1030492327",
+      "38947b34-94af-4bd9-b5df-7c33617aa5c4",
+      "64603752-0e74-43f4-81e7-3ed4eadd9c43",
+      "74d5fb28-f7dc-40d8-9876-f7462c962456",
+      "c39b483d-74c1-4c16-a1c0-45373deb2947",
+      "c67c1dba-e31b-49b9-a80d-e8b8875ec67e",
+      "32ee8a65-e18d-4595-a395-2c9bd6c24958",
+      "713c6def-2f9e-4f51-89f0-c757f64ee52f",
+      "d8a6558e-add6-4e50-85db-013c837bc7ed"
+    ],
+    "level": 2
+  },
+  "90bc06ce-74a9-407a-ae93-b6b5cf490096": {
+    "title": "Options, Futures & Other Derivatives : J",
+    "text": "Options, Futures & Other Derivatives : J.C. Hull (Advanced)",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "66ed5d46-0e16-43a6-ae9d-84c30fad53ca": {
+    "title": "As for projects and interns you can appl",
+    "text": "As for projects and interns you can apply to various Business Schools through email,",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "d5cd2f0b-d5f9-4d21-aa59-7bcfdb255c4f": {
+    "title": "Corporates via Linkedin. Trading, Stock ",
+    "text": "Corporates via Linkedin. Trading, Stock Pitch & Portfolio Management competitions",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "8ac2098a-d7b2-4465-9715-ba1030492327": {
+    "title": "continue to happen all throughout the ye",
+    "text": "continue to happen all throughout the year and can be found on the Dare2Compete",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "38947b34-94af-4bd9-b5df-7c33617aa5c4": {
+    "title": "website.",
+    "text": "website.",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "64603752-0e74-43f4-81e7-3ed4eadd9c43": {
+    "title": "You can also take additional courses fro",
+    "text": "You can also take additional courses from V inod Gupta School of Management,",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "74d5fb28-f7dc-40d8-9876-f7462c962456": {
+    "title": "consider applying for a Masters in Finan",
+    "text": "consider applying for a Masters in Financial Engineering to foster your interest in the",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "c39b483d-74c1-4c16-a1c0-45373deb2947": {
+    "title": "field and increase your chances of getti",
+    "text": "field and increase your chances of getting a shortlist.",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "c67c1dba-e31b-49b9-a80d-e8b8875ec67e": {
+    "title": "From an internship/placement point of pe",
+    "text": "From an internship/placement point of perspective, most companies have a CV shortlist",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "32ee8a65-e18d-4595-a395-2c9bd6c24958": {
+    "title": "followed by direct interviews. Some comp",
+    "text": "followed by direct interviews. Some companies would have a quant/coding test to filter",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "713c6def-2f9e-4f51-89f0-c757f64ee52f": {
+    "title": "in the first round. You are expected to ",
+    "text": "in the first round. You are expected to be extremely well versed with every word on your",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "d8a6558e-add6-4e50-85db-013c837bc7ed": {
+    "title": "CV, idea about the markets & the area of",
+    "text": "CV, idea about the markets & the area of Finance pertaining to the job description.",
+    "parent": "95a218a6-7475-4d0f-ade8-6a2744c49261",
+    "children": [],
+    "level": 3
+  },
+  "bf21fc30-a166-4c7b-b919-84330a51aae4": {
+    "title": "CONSUL TING",
+    "text": "",
+    "parent": "063be118-cf89-4b80-a1e3-bca947c19166",
+    "children": [
+      "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+      "171c81bb-f482-4dd1-9642-04c32e6c05f2",
+      "8e66506a-1fa1-47e9-ae00-bf46a2a7710a",
+      "5c61734d-4354-4cf0-b928-5bcb8efbb352",
+      "f89c92ea-4ff9-4094-af0f-d41ba7152a56",
+      "e11bc6d1-a783-4999-9c63-bdf2b6a07a01",
+      "1e1aa428-cffc-4f99-a111-7059a304a7fc",
+      "864ae531-8b5e-4fdc-81be-bf7d9c172a0b"
+    ],
+    "level": 1
+  },
+  "8167093e-4458-4098-aeba-bdf0dc6d04b3": {
+    "title": "Consulting is about giving solutions to the proble",
+    "text": "Consulting is about giving solutions to the problems of dif ferent companies. This\ninvolves data analysis, market research and using your problem-solving skills to solve\ncompanies’  problems.\nTo get an idea of consulting you can take part in various case study competitions. In\norder to explore the field further , you can consider taking internships in\ncorporates/startups in strategy roles, applying for pro-bono consulting projects, etc.\nFor CDC internships, very few companies come of fering a consulting role and follow a\nstrict CV shortlist. In Consulting, CVs are sorted on the basis of ‘Spikes’. A spike on\nyour CV is a considerable achievement on a section of our CV\n(Academics/Project/POR/Extra-Curricular). Spikes on more than one of these sections\nis important to secure a shortlist as these roles are open to all departments and secure\nheavy applications.\nFollowing a shortlist, there are multiple one-on-one case interview rounds followed by a\nfinal HR round. Generally firms provide a buddy (recent employee) to help shortlisted\ncandidates prepare for the case interview round. There are multiple resources to\npractice your case structure, methodology and build a problem solving approach such\nas :-",
+    "parent": "bf21fc30-a166-4c7b-b919-84330a51aae4",
+    "children": [
+      "f238746d-e47d-4708-b7f5-530f654479ee",
+      "6823382c-f4a2-41af-a03b-32a8401a711a",
+      "eecb7e65-b658-40ff-be95-5e84e09fff5c",
+      "3fbe97ca-6f1a-4336-91d7-636bb411d7b6",
+      "004c9adf-74fb-42a0-91d1-a5ec23bc9d09",
+      "18dda615-ded1-4639-8d17-e7230bc4a6e3",
+      "f63dfc32-860e-4382-ac24-5719e0dd2d65",
+      "6a03e04b-62a6-4552-b87a-ae779ac259c2",
+      "2daf6aec-4502-401c-9b55-ce846eac6ae7",
+      "125a28fe-916c-4bb5-86ef-beae737a199e",
+      "8c744f70-0313-4c0c-9dcd-baef508ad02c",
+      "a46cb0be-e994-455f-8b81-84d48512ff8c",
+      "4ac4c5c0-f1b1-4b3a-bf8c-06ee825393e2",
+      "cdf7a4b5-e91d-4ce4-81a3-98e987cc2eed",
+      "91c35699-7113-4528-8da4-a85ddb219520",
+      "08a26fd9-76d9-4eb2-80e5-11b933374e70",
+      "f610d9fe-b52d-4458-804a-0f15cc5c5f64"
+    ],
+    "level": 2
+  },
+  "f238746d-e47d-4708-b7f5-530f654479ee": {
+    "title": "Consulting is about giving solutions to ",
+    "text": "Consulting is about giving solutions to the problems of dif ferent companies. This",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "6823382c-f4a2-41af-a03b-32a8401a711a": {
+    "title": "involves data analysis, market research ",
+    "text": "involves data analysis, market research and using your problem-solving skills to solve",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "eecb7e65-b658-40ff-be95-5e84e09fff5c": {
+    "title": "companies’  problems.",
+    "text": "companies’  problems.",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "3fbe97ca-6f1a-4336-91d7-636bb411d7b6": {
+    "title": "To get an idea of consulting you can tak",
+    "text": "To get an idea of consulting you can take part in various case study competitions. In",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "004c9adf-74fb-42a0-91d1-a5ec23bc9d09": {
+    "title": "order to explore the field further , you",
+    "text": "order to explore the field further , you can consider taking internships in",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "18dda615-ded1-4639-8d17-e7230bc4a6e3": {
+    "title": "corporates/startups in strategy roles, a",
+    "text": "corporates/startups in strategy roles, applying for pro-bono consulting projects, etc.",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "f63dfc32-860e-4382-ac24-5719e0dd2d65": {
+    "title": "For CDC internships, very few companies ",
+    "text": "For CDC internships, very few companies come of fering a consulting role and follow a",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "6a03e04b-62a6-4552-b87a-ae779ac259c2": {
+    "title": "strict CV shortlist. In Consulting, CVs ",
+    "text": "strict CV shortlist. In Consulting, CVs are sorted on the basis of ‘Spikes’. A spike on",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "2daf6aec-4502-401c-9b55-ce846eac6ae7": {
+    "title": "your CV is a considerable achievement on",
+    "text": "your CV is a considerable achievement on a section of our CV",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "125a28fe-916c-4bb5-86ef-beae737a199e": {
+    "title": "(Academics/Project/POR/Extra-Curricular)",
+    "text": "(Academics/Project/POR/Extra-Curricular). Spikes on more than one of these sections",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "8c744f70-0313-4c0c-9dcd-baef508ad02c": {
+    "title": "is important to secure a shortlist as th",
+    "text": "is important to secure a shortlist as these roles are open to all departments and secure",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "a46cb0be-e994-455f-8b81-84d48512ff8c": {
+    "title": "heavy applications.",
+    "text": "heavy applications.",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "4ac4c5c0-f1b1-4b3a-bf8c-06ee825393e2": {
+    "title": "Following a shortlist, there are multipl",
+    "text": "Following a shortlist, there are multiple one-on-one case interview rounds followed by a",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "cdf7a4b5-e91d-4ce4-81a3-98e987cc2eed": {
+    "title": "final HR round. Generally firms provide ",
+    "text": "final HR round. Generally firms provide a buddy (recent employee) to help shortlisted",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "91c35699-7113-4528-8da4-a85ddb219520": {
+    "title": "candidates prepare for the case intervie",
+    "text": "candidates prepare for the case interview round. There are multiple resources to",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "08a26fd9-76d9-4eb2-80e5-11b933374e70": {
+    "title": "practice your case structure, methodolog",
+    "text": "practice your case structure, methodology and build a problem solving approach such",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "f610d9fe-b52d-4458-804a-0f15cc5c5f64": {
+    "title": "as :-",
+    "text": "as :-",
+    "parent": "8167093e-4458-4098-aeba-bdf0dc6d04b3",
+    "children": [],
+    "level": 3
+  },
+  "171c81bb-f482-4dd1-9642-04c32e6c05f2": {
+    "title": "Case in Point (Marc Cosentino)",
+    "text": "Case in Point (Marc Cosentino)",
+    "parent": "bf21fc30-a166-4c7b-b919-84330a51aae4",
+    "children": [
+      "3673224b-9379-4bd8-9c29-97985b482689"
+    ],
+    "level": 2
+  },
+  "3673224b-9379-4bd8-9c29-97985b482689": {
+    "title": "Case in Point (Marc Cosentino)",
+    "text": "Case in Point (Marc Cosentino)",
+    "parent": "171c81bb-f482-4dd1-9642-04c32e6c05f2",
+    "children": [],
+    "level": 3
+  },
+  "8e66506a-1fa1-47e9-ae00-bf46a2a7710a": {
+    "title": "Case Interviews Cracked (IIT  Bombay)",
+    "text": "Case Interviews Cracked (IIT  Bombay)",
+    "parent": "bf21fc30-a166-4c7b-b919-84330a51aae4",
+    "children": [
+      "681a1d4c-3cd3-40f3-bd7b-a7944321c77e"
+    ],
+    "level": 2
+  },
+  "681a1d4c-3cd3-40f3-bd7b-a7944321c77e": {
+    "title": "Case Interviews Cracked (IIT  Bombay)",
+    "text": "Case Interviews Cracked (IIT  Bombay)",
+    "parent": "8e66506a-1fa1-47e9-ae00-bf46a2a7710a",
+    "children": [],
+    "level": 3
+  },
+  "5c61734d-4354-4cf0-b928-5bcb8efbb352": {
+    "title": "Victor Cheng Case Interview W orkshops (Y outube)",
+    "text": "Victor Cheng Case Interview W orkshops (Y outube)\nFollowing are some resources on Consulting:",
+    "parent": "bf21fc30-a166-4c7b-b919-84330a51aae4",
+    "children": [
+      "5a9147f5-3f5d-48c6-804a-5467a62e32d3",
+      "3686b357-897c-495a-a25a-38fe3c2deba5"
+    ],
+    "level": 2
+  },
+  "5a9147f5-3f5d-48c6-804a-5467a62e32d3": {
+    "title": "Victor Cheng Case Interview W orkshops (",
+    "text": "Victor Cheng Case Interview W orkshops (Y outube)",
+    "parent": "5c61734d-4354-4cf0-b928-5bcb8efbb352",
+    "children": [],
+    "level": 3
+  },
+  "3686b357-897c-495a-a25a-38fe3c2deba5": {
+    "title": "Following are some resources on Consulti",
+    "text": "Following are some resources on Consulting:",
+    "parent": "5c61734d-4354-4cf0-b928-5bcb8efbb352",
+    "children": [],
+    "level": 3
+  },
+  "f89c92ea-4ff9-4094-af0f-d41ba7152a56": {
+    "title": "Guessing Game: Communique",
+    "text": "Guessing Game: Communique",
+    "parent": "bf21fc30-a166-4c7b-b919-84330a51aae4",
+    "children": [
+      "a162de16-8c22-48c0-ad35-6a77a5858c97"
+    ],
+    "level": 2
+  },
+  "a162de16-8c22-48c0-ad35-6a77a5858c97": {
+    "title": "Guessing Game: Communique",
+    "text": "Guessing Game: Communique",
+    "parent": "f89c92ea-4ff9-4094-af0f-d41ba7152a56",
+    "children": [],
+    "level": 3
+  },
+  "e11bc6d1-a783-4999-9c63-bdf2b6a07a01": {
+    "title": "Previously asked Guestimates",
+    "text": "Previously asked Guestimates",
+    "parent": "bf21fc30-a166-4c7b-b919-84330a51aae4",
+    "children": [
+      "f96ac423-85bc-4b44-91da-667796d52bc1"
+    ],
+    "level": 2
+  },
+  "f96ac423-85bc-4b44-91da-667796d52bc1": {
+    "title": "Previously asked Guestimates",
+    "text": "Previously asked Guestimates",
+    "parent": "e11bc6d1-a783-4999-9c63-bdf2b6a07a01",
+    "children": [],
+    "level": 3
+  },
+  "1e1aa428-cffc-4f99-a111-7059a304a7fc": {
+    "title": "More Resources",
+    "text": "More Resources",
+    "parent": "bf21fc30-a166-4c7b-b919-84330a51aae4",
+    "children": [
+      "a9db9a11-b2df-4764-8f1d-90c3047ff7f3"
+    ],
+    "level": 2
+  },
+  "a9db9a11-b2df-4764-8f1d-90c3047ff7f3": {
+    "title": "More Resources",
+    "text": "More Resources",
+    "parent": "1e1aa428-cffc-4f99-a111-7059a304a7fc",
+    "children": [],
+    "level": 3
+  },
+  "864ae531-8b5e-4fdc-81be-bf7d9c172a0b": {
+    "title": "Consulting Fundae",
+    "text": "Consulting Fundae",
+    "parent": "bf21fc30-a166-4c7b-b919-84330a51aae4",
+    "children": [
+      "e6580c1b-7e87-4443-9b70-072f0439d775"
+    ],
+    "level": 2
+  },
+  "e6580c1b-7e87-4443-9b70-072f0439d775": {
+    "title": "Consulting Fundae",
+    "text": "Consulting Fundae",
+    "parent": "864ae531-8b5e-4fdc-81be-bf7d9c172a0b",
+    "children": [],
+    "level": 3
+  },
+  "80d59d83-fa80-452f-b9ce-c9f6d9facccf": {
+    "title": "PRODUCT MANAGEMENT",
+    "text": "",
+    "parent": "063be118-cf89-4b80-a1e3-bca947c19166",
+    "children": [
+      "e8a81715-1d58-4c8a-9e67-acbe2c7b5e7e",
+      "a1760828-914f-49f4-a5ac-faa52f3b4b8b",
+      "3464c087-4d6f-4635-af84-35508c3d3940",
+      "c7b48fbe-5757-4843-9f77-ae4d672e95c6",
+      "0b25b7de-0917-43af-80ea-bb1c1a77d4b8",
+      "f362576e-1a91-4bc7-ab2e-4f849464f53d",
+      "233ce253-48d3-4e5c-b41e-57a39a86eb6d",
+      "00bf651b-b29a-4839-b5dc-6a4967f848d7",
+      "d7ab952b-4a61-4d5e-9560-edfe491557a9",
+      "4b609eac-d7ba-4129-b74b-c1ef88f8a2f1",
+      "d953f444-6f35-40c0-818d-6603486a9009",
+      "654bcce4-037e-457e-9e4e-f9d3a1c9f40c",
+      "97c7d587-7590-48fd-b791-0cee0a8bc2a9",
+      "b92a41df-9736-400c-a1e9-4832287c6171",
+      "51994e94-ff52-4abb-800f-0f84f15747d2",
+      "23916129-80ab-4430-86dd-5c8623da6776",
+      "3691c8d9-b92d-4aa1-bf78-2afaeae5636c",
+      "2784eda3-7fbc-4f88-94d8-ffb0b7dfdd43",
+      "f9620a4f-f438-436e-ba6d-b49d362252da",
+      "7f7e456b-0eb3-4677-a5f5-3d1ebddeb9aa",
+      "1c8397c3-1001-4789-ad8e-217f43883948",
+      "f4487994-29f2-4c9e-9eae-d26973fc2465",
+      "f767d224-3429-40cf-bb8d-60b84993e8ca",
+      "0ce48f83-a67a-4c83-85cc-3142444bc06d",
+      "681c5b01-6832-4072-833b-111fa43eb1fb",
+      "6ad164f8-2265-42f1-b215-dbe1351bc69a",
+      "6f8addeb-a86a-4d32-a044-ea1e657a6795",
+      "b3364b46-b23d-4f49-86a9-3123c0d3ffb1",
+      "2bf88205-6756-476d-9927-f063aec0131a",
+      "ff629e93-c2f6-44c2-82b6-d0f4f6e6af41",
+      "7419a78b-5bab-472c-8676-93c5a4168023",
+      "09b40e47-8289-4041-86eb-00f7ec48d52b",
+      "852aea46-7ec6-48ea-8da8-3531a7bff0b6",
+      "303add9c-3d55-417a-962f-f26f80554d11",
+      "c0cc84a3-312d-4f19-984f-fa0ba3fa9c18",
+      "2d93c049-1826-4c51-97e8-3959b903209c",
+      "cbc7f38b-a77d-4355-88f2-db3fca678004",
+      "cdfba08c-8548-4a4f-9872-bfe3c7997122"
+    ],
+    "level": 1
+  },
+  "e8a81715-1d58-4c8a-9e67-acbe2c7b5e7e": {
+    "title": "A product manager is responsible for the strategy ",
+    "text": "A product manager is responsible for the strategy , roadmap, and feature definition for a\nproduct or product line. They conduct research, develop strategies, communicate plans\nand coordinate the development of company projects.",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "2877c4d4-584a-4ca8-afce-509ec38f3391",
+      "43ce61d6-2023-4a1c-97e6-1258d113d7f8",
+      "4c548d83-230b-4add-8914-0b94775221ba"
+    ],
+    "level": 2
+  },
+  "2877c4d4-584a-4ca8-afce-509ec38f3391": {
+    "title": "A product manager is responsible for the",
+    "text": "A product manager is responsible for the strategy , roadmap, and feature definition for a",
+    "parent": "e8a81715-1d58-4c8a-9e67-acbe2c7b5e7e",
+    "children": [],
+    "level": 3
+  },
+  "43ce61d6-2023-4a1c-97e6-1258d113d7f8": {
+    "title": "product or product line. They conduct re",
+    "text": "product or product line. They conduct research, develop strategies, communicate plans",
+    "parent": "e8a81715-1d58-4c8a-9e67-acbe2c7b5e7e",
+    "children": [],
+    "level": 3
+  },
+  "4c548d83-230b-4add-8914-0b94775221ba": {
+    "title": "and coordinate the development of compan",
+    "text": "and coordinate the development of company projects.",
+    "parent": "e8a81715-1d58-4c8a-9e67-acbe2c7b5e7e",
+    "children": [],
+    "level": 3
+  },
+  "a1760828-914f-49f4-a5ac-faa52f3b4b8b": {
+    "title": "Company Wise Mock Interview V ideos",
+    "text": "Company Wise Mock Interview V ideos",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "00f19814-7454-4988-b49c-205fc5091b2c"
+    ],
+    "level": 2
+  },
+  "00f19814-7454-4988-b49c-205fc5091b2c": {
+    "title": "Company Wise Mock Interview V ideos",
+    "text": "Company Wise Mock Interview V ideos",
+    "parent": "a1760828-914f-49f4-a5ac-faa52f3b4b8b",
+    "children": [],
+    "level": 3
+  },
+  "3464c087-4d6f-4635-af84-35508c3d3940": {
+    "title": "Flipkart:",
+    "text": "Flipkart:\nhttps://www .youtube.com/watch?v=DSV -vuvmIro&t=148s",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "61860711-8776-4db7-8c3d-2ad0a82fbb3e",
+      "f13cf70d-7f86-4378-b5e7-a9fd289c1c8d"
+    ],
+    "level": 2
+  },
+  "61860711-8776-4db7-8c3d-2ad0a82fbb3e": {
+    "title": "Flipkart:",
+    "text": "Flipkart:",
+    "parent": "3464c087-4d6f-4635-af84-35508c3d3940",
+    "children": [],
+    "level": 3
+  },
+  "f13cf70d-7f86-4378-b5e7-a9fd289c1c8d": {
+    "title": "https://www .youtube.com/watch?v=DSV -vu",
+    "text": "https://www .youtube.com/watch?v=DSV -vuvmIro&t=148s",
+    "parent": "3464c087-4d6f-4635-af84-35508c3d3940",
+    "children": [],
+    "level": 3
+  },
+  "c7b48fbe-5757-4843-9f77-ae4d672e95c6": {
+    "title": "Microsoft:",
+    "text": "Microsoft:\nhttps://www .youtube.com/watch?v=Axa7gx1lKqA",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "ad767821-e544-44b5-8670-39b7b14c4272",
+      "1362c0f8-4f7f-43a5-bcaf-24e44a5c3365"
+    ],
+    "level": 2
+  },
+  "ad767821-e544-44b5-8670-39b7b14c4272": {
+    "title": "Microsoft:",
+    "text": "Microsoft:",
+    "parent": "c7b48fbe-5757-4843-9f77-ae4d672e95c6",
+    "children": [],
+    "level": 3
+  },
+  "1362c0f8-4f7f-43a5-bcaf-24e44a5c3365": {
+    "title": "https://www .youtube.com/watch?v=Axa7gx1",
+    "text": "https://www .youtube.com/watch?v=Axa7gx1lKqA",
+    "parent": "c7b48fbe-5757-4843-9f77-ae4d672e95c6",
+    "children": [],
+    "level": 3
+  },
+  "0b25b7de-0917-43af-80ea-bb1c1a77d4b8": {
+    "title": "Google (Maps):",
+    "text": "Google (Maps):\nhttps://youtu.be/CXdaPETE7iE",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "846b6e1f-bf64-445a-ae43-c14a4b676d11",
+      "2625d0f7-c1b2-438c-a431-e27e670a6662"
+    ],
+    "level": 2
+  },
+  "846b6e1f-bf64-445a-ae43-c14a4b676d11": {
+    "title": "Google (Maps):",
+    "text": "Google (Maps):",
+    "parent": "0b25b7de-0917-43af-80ea-bb1c1a77d4b8",
+    "children": [],
+    "level": 3
+  },
+  "2625d0f7-c1b2-438c-a431-e27e670a6662": {
+    "title": "https://youtu.be/CXdaPETE7iE",
+    "text": "https://youtu.be/CXdaPETE7iE",
+    "parent": "0b25b7de-0917-43af-80ea-bb1c1a77d4b8",
+    "children": [],
+    "level": 3
+  },
+  "f362576e-1a91-4bc7-ab2e-4f849464f53d": {
+    "title": "Amazon:",
+    "text": "Amazon:\nhttps://www .youtube.com/watch?v=LC92F0nUOV0",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "84ea97f5-08a9-4032-be0d-ee62308d962c",
+      "58544c9c-fc31-45bf-aaaf-c661f342e95a"
+    ],
+    "level": 2
+  },
+  "84ea97f5-08a9-4032-be0d-ee62308d962c": {
+    "title": "Amazon:",
+    "text": "Amazon:",
+    "parent": "f362576e-1a91-4bc7-ab2e-4f849464f53d",
+    "children": [],
+    "level": 3
+  },
+  "58544c9c-fc31-45bf-aaaf-c661f342e95a": {
+    "title": "https://www .youtube.com/watch?v=LC92F0n",
+    "text": "https://www .youtube.com/watch?v=LC92F0nUOV0",
+    "parent": "f362576e-1a91-4bc7-ab2e-4f849464f53d",
+    "children": [],
+    "level": 3
+  },
+  "233ce253-48d3-4e5c-b41e-57a39a86eb6d": {
+    "title": "Lyft:",
+    "text": "Lyft:\nhttps://www .youtube.com/watch?v=fN6D4i82X_E",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "b88c0ccd-a222-46d6-a064-29845fe6f080",
+      "a7a7c974-beb3-4665-b26d-0f4474919703"
+    ],
+    "level": 2
+  },
+  "b88c0ccd-a222-46d6-a064-29845fe6f080": {
+    "title": "Lyft:",
+    "text": "Lyft:",
+    "parent": "233ce253-48d3-4e5c-b41e-57a39a86eb6d",
+    "children": [],
+    "level": 3
+  },
+  "a7a7c974-beb3-4665-b26d-0f4474919703": {
+    "title": "https://www .youtube.com/watch?v=fN6D4i8",
+    "text": "https://www .youtube.com/watch?v=fN6D4i82X_E",
+    "parent": "233ce253-48d3-4e5c-b41e-57a39a86eb6d",
+    "children": [],
+    "level": 3
+  },
+  "00bf651b-b29a-4839-b5dc-6a4967f848d7": {
+    "title": "Interview Tip Videos",
+    "text": "Interview Tip Videos",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "6ac0fe7d-cabb-4617-9079-e8430dd6ca37"
+    ],
+    "level": 2
+  },
+  "6ac0fe7d-cabb-4617-9079-e8430dd6ca37": {
+    "title": "Interview Tip Videos",
+    "text": "Interview Tip Videos",
+    "parent": "00bf651b-b29a-4839-b5dc-6a4967f848d7",
+    "children": [],
+    "level": 3
+  },
+  "d7ab952b-4a61-4d5e-9560-edfe491557a9": {
+    "title": "https://www .youtube.com/watch?v=L VZ-ImQfo4E",
+    "text": "https://www .youtube.com/watch?v=L VZ-ImQfo4E",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "4b194f30-898b-4f37-bccb-f6b0a01e8d52"
+    ],
+    "level": 2
+  },
+  "4b194f30-898b-4f37-bccb-f6b0a01e8d52": {
+    "title": "https://www .youtube.com/watch?v=L VZ-Im",
+    "text": "https://www .youtube.com/watch?v=L VZ-ImQfo4E",
+    "parent": "d7ab952b-4a61-4d5e-9560-edfe491557a9",
+    "children": [],
+    "level": 3
+  },
+  "4b609eac-d7ba-4129-b74b-c1ef88f8a2f1": {
+    "title": "https://www .youtube.com/watch?v=tpIRd5LKEmY&list=",
+    "text": "https://www .youtube.com/watch?v=tpIRd5LKEmY&list=RDCMUCrxXuHC\nTLVGUy0_zI6E8aNg&index=3",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "c28a06c0-964d-4d95-a929-ea99d41d1344",
+      "a31385ab-fed6-4109-8870-f336a8f521d4"
+    ],
+    "level": 2
+  },
+  "c28a06c0-964d-4d95-a929-ea99d41d1344": {
+    "title": "https://www .youtube.com/watch?v=tpIRd5L",
+    "text": "https://www .youtube.com/watch?v=tpIRd5LKEmY&list=RDCMUCrxXuHC",
+    "parent": "4b609eac-d7ba-4129-b74b-c1ef88f8a2f1",
+    "children": [],
+    "level": 3
+  },
+  "a31385ab-fed6-4109-8870-f336a8f521d4": {
+    "title": "TLVGUy0_zI6E8aNg&index=3",
+    "text": "TLVGUy0_zI6E8aNg&index=3",
+    "parent": "4b609eac-d7ba-4129-b74b-c1ef88f8a2f1",
+    "children": [],
+    "level": 3
+  },
+  "d953f444-6f35-40c0-818d-6603486a9009": {
+    "title": "https://www .youtube.com/watch?v=61M1r69ZWDg",
+    "text": "https://www .youtube.com/watch?v=61M1r69ZWDg",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "05392a74-0eca-48be-9597-c6d8e1917b70"
+    ],
+    "level": 2
+  },
+  "05392a74-0eca-48be-9597-c6d8e1917b70": {
+    "title": "https://www .youtube.com/watch?v=61M1r69",
+    "text": "https://www .youtube.com/watch?v=61M1r69ZWDg",
+    "parent": "d953f444-6f35-40c0-818d-6603486a9009",
+    "children": [],
+    "level": 3
+  },
+  "654bcce4-037e-457e-9e4e-f9d3a1c9f40c": {
+    "title": "https://www .youtube.com/watch?v=n530l09t8zY",
+    "text": "https://www .youtube.com/watch?v=n530l09t8zY",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "66d0d616-0abd-4a45-bbf8-4aeefb6d55a7"
+    ],
+    "level": 2
+  },
+  "66d0d616-0abd-4a45-bbf8-4aeefb6d55a7": {
+    "title": "https://www .youtube.com/watch?v=n530l09",
+    "text": "https://www .youtube.com/watch?v=n530l09t8zY",
+    "parent": "654bcce4-037e-457e-9e4e-f9d3a1c9f40c",
+    "children": [],
+    "level": 3
+  },
+  "97c7d587-7590-48fd-b791-0cee0a8bc2a9": {
+    "title": "Community:",
+    "text": "Community:\nhttp://productmanagementexcercises.com/",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "04cd9db3-5191-4a92-ba34-1b0d1911207b",
+      "a902644d-8104-463d-90a4-4524042dc6df"
+    ],
+    "level": 2
+  },
+  "04cd9db3-5191-4a92-ba34-1b0d1911207b": {
+    "title": "Community:",
+    "text": "Community:",
+    "parent": "97c7d587-7590-48fd-b791-0cee0a8bc2a9",
+    "children": [],
+    "level": 3
+  },
+  "a902644d-8104-463d-90a4-4524042dc6df": {
+    "title": "http://productmanagementexcercises.com/",
+    "text": "http://productmanagementexcercises.com/",
+    "parent": "97c7d587-7590-48fd-b791-0cee0a8bc2a9",
+    "children": [],
+    "level": 3
+  },
+  "b92a41df-9736-400c-a1e9-4832287c6171": {
+    "title": "Youtube Channels",
+    "text": "Youtube Channels",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "a76b2aca-f7cd-47ed-a401-7618f4df9160"
+    ],
+    "level": 2
+  },
+  "a76b2aca-f7cd-47ed-a401-7618f4df9160": {
+    "title": "Youtube Channels",
+    "text": "Youtube Channels",
+    "parent": "b92a41df-9736-400c-a1e9-4832287c6171",
+    "children": [],
+    "level": 3
+  },
+  "51994e94-ff52-4abb-800f-0f84f15747d2": {
+    "title": "PMSchool",
+    "text": "PMSchool",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "a550441f-b645-4d87-a6c3-89333ca6d25a"
+    ],
+    "level": 2
+  },
+  "a550441f-b645-4d87-a6c3-89333ca6d25a": {
+    "title": "PMSchool",
+    "text": "PMSchool",
+    "parent": "51994e94-ff52-4abb-800f-0f84f15747d2",
+    "children": [],
+    "level": 3
+  },
+  "23916129-80ab-4430-86dd-5c8623da6776": {
+    "title": "Exponent",
+    "text": "Exponent",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "79b28eb9-1d2d-44d4-b393-dad1c55a1797"
+    ],
+    "level": 2
+  },
+  "79b28eb9-1d2d-44d4-b393-dad1c55a1797": {
+    "title": "Exponent",
+    "text": "Exponent",
+    "parent": "23916129-80ab-4430-86dd-5c8623da6776",
+    "children": [],
+    "level": 3
+  },
+  "3691c8d9-b92d-4aa1-bf78-2afaeae5636c": {
+    "title": "Topics to be familiar with",
+    "text": "Topics to be familiar with",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "cc247ad6-90da-4147-a663-f4b44c3f3630"
+    ],
+    "level": 2
+  },
+  "cc247ad6-90da-4147-a663-f4b44c3f3630": {
+    "title": "Topics to be familiar with",
+    "text": "Topics to be familiar with",
+    "parent": "3691c8d9-b92d-4aa1-bf78-2afaeae5636c",
+    "children": [],
+    "level": 3
+  },
+  "2784eda3-7fbc-4f88-94d8-ffb0b7dfdd43": {
+    "title": "User Journey",
+    "text": "User Journey",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "d589b5e1-0cb2-47a3-be76-ee03dbb85a28"
+    ],
+    "level": 2
+  },
+  "d589b5e1-0cb2-47a3-be76-ee03dbb85a28": {
+    "title": "User Journey",
+    "text": "User Journey",
+    "parent": "2784eda3-7fbc-4f88-94d8-ffb0b7dfdd43",
+    "children": [],
+    "level": 3
+  },
+  "f9620a4f-f438-436e-ba6d-b49d362252da": {
+    "title": "Metrics and KPIs",
+    "text": "Metrics and KPIs",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "23f2f856-b5b3-456c-8aa6-1f7ea9d2dadb"
+    ],
+    "level": 2
+  },
+  "23f2f856-b5b3-456c-8aa6-1f7ea9d2dadb": {
+    "title": "Metrics and KPIs",
+    "text": "Metrics and KPIs",
+    "parent": "f9620a4f-f438-436e-ba6d-b49d362252da",
+    "children": [],
+    "level": 3
+  },
+  "7f7e456b-0eb3-4677-a5f5-3d1ebddeb9aa": {
+    "title": "Customer Acquisition",
+    "text": "Customer Acquisition",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "f43e8ce2-7fb3-40d9-8ad9-753869573c8c"
+    ],
+    "level": 2
+  },
+  "f43e8ce2-7fb3-40d9-8ad9-753869573c8c": {
+    "title": "Customer Acquisition",
+    "text": "Customer Acquisition",
+    "parent": "7f7e456b-0eb3-4677-a5f5-3d1ebddeb9aa",
+    "children": [],
+    "level": 3
+  },
+  "1c8397c3-1001-4789-ad8e-217f43883948": {
+    "title": "Engagement",
+    "text": "Engagement",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "62c633ca-e6b1-47be-9e8a-2e1aed346128"
+    ],
+    "level": 2
+  },
+  "62c633ca-e6b1-47be-9e8a-2e1aed346128": {
+    "title": "Engagement",
+    "text": "Engagement",
+    "parent": "1c8397c3-1001-4789-ad8e-217f43883948",
+    "children": [],
+    "level": 3
+  },
+  "f4487994-29f2-4c9e-9eae-d26973fc2465": {
+    "title": "Retention",
+    "text": "Retention",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "d2268601-504a-4d30-a11a-520bae13f26e"
+    ],
+    "level": 2
+  },
+  "d2268601-504a-4d30-a11a-520bae13f26e": {
+    "title": "Retention",
+    "text": "Retention",
+    "parent": "f4487994-29f2-4c9e-9eae-d26973fc2465",
+    "children": [],
+    "level": 3
+  },
+  "f767d224-3429-40cf-bb8d-60b84993e8ca": {
+    "title": "Monetization",
+    "text": "Monetization",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "6fb43366-37ba-4f4d-be80-ca8df99686ef"
+    ],
+    "level": 2
+  },
+  "6fb43366-37ba-4f4d-be80-ca8df99686ef": {
+    "title": "Monetization",
+    "text": "Monetization",
+    "parent": "f767d224-3429-40cf-bb8d-60b84993e8ca",
+    "children": [],
+    "level": 3
+  },
+  "0ce48f83-a67a-4c83-85cc-3142444bc06d": {
+    "title": "Stickiness",
+    "text": "Stickiness",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "10ad438d-27ea-447c-9d5f-cfea01152f69"
+    ],
+    "level": 2
+  },
+  "10ad438d-27ea-447c-9d5f-cfea01152f69": {
+    "title": "Stickiness",
+    "text": "Stickiness",
+    "parent": "0ce48f83-a67a-4c83-85cc-3142444bc06d",
+    "children": [],
+    "level": 3
+  },
+  "681c5b01-6832-4072-833b-111fa43eb1fb": {
+    "title": "Churn Rate",
+    "text": "Churn Rate",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "9c74f1fc-a13a-4910-851b-f4fb6d08be27"
+    ],
+    "level": 2
+  },
+  "9c74f1fc-a13a-4910-851b-f4fb6d08be27": {
+    "title": "Churn Rate",
+    "text": "Churn Rate",
+    "parent": "681c5b01-6832-4072-833b-111fa43eb1fb",
+    "children": [],
+    "level": 3
+  },
+  "6ad164f8-2265-42f1-b215-dbe1351bc69a": {
+    "title": "Surge Pricing",
+    "text": "Surge Pricing",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "275c4a01-86bc-4611-8b6c-228b8a856259"
+    ],
+    "level": 2
+  },
+  "275c4a01-86bc-4611-8b6c-228b8a856259": {
+    "title": "Surge Pricing",
+    "text": "Surge Pricing",
+    "parent": "6ad164f8-2265-42f1-b215-dbe1351bc69a",
+    "children": [],
+    "level": 3
+  },
+  "6f8addeb-a86a-4d32-a044-ea1e657a6795": {
+    "title": "4 Ps of Marketing",
+    "text": "4 Ps of Marketing",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "8d842bf4-66c7-46c7-bc01-25a71d5f69c3"
+    ],
+    "level": 2
+  },
+  "8d842bf4-66c7-46c7-bc01-25a71d5f69c3": {
+    "title": "4 Ps of Marketing",
+    "text": "4 Ps of Marketing",
+    "parent": "6f8addeb-a86a-4d32-a044-ea1e657a6795",
+    "children": [],
+    "level": 3
+  },
+  "b3364b46-b23d-4f49-86a9-3123c0d3ffb1": {
+    "title": "CIRCLES framework",
+    "text": "CIRCLES framework",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "b9c16c8e-ce0a-4a24-96ed-1c40e497b259"
+    ],
+    "level": 2
+  },
+  "b9c16c8e-ce0a-4a24-96ed-1c40e497b259": {
+    "title": "CIRCLES framework",
+    "text": "CIRCLES framework",
+    "parent": "b3364b46-b23d-4f49-86a9-3123c0d3ffb1",
+    "children": [],
+    "level": 3
+  },
+  "2bf88205-6756-476d-9927-f063aec0131a": {
+    "title": "HEAR T framework",
+    "text": "HEAR T framework",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "10d8ab6e-d0a3-4b1d-a3bc-e77bd39ff4e5"
+    ],
+    "level": 2
+  },
+  "10d8ab6e-d0a3-4b1d-a3bc-e77bd39ff4e5": {
+    "title": "HEAR T framework",
+    "text": "HEAR T framework",
+    "parent": "2bf88205-6756-476d-9927-f063aec0131a",
+    "children": [],
+    "level": 3
+  },
+  "ff629e93-c2f6-44c2-82b6-d0f4f6e6af41": {
+    "title": "Porter's 5 forces",
+    "text": "Porter's 5 forces",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "15227c68-9e60-40c4-a729-7de533333aa3"
+    ],
+    "level": 2
+  },
+  "15227c68-9e60-40c4-a729-7de533333aa3": {
+    "title": "Porter's 5 forces",
+    "text": "Porter's 5 forces",
+    "parent": "ff629e93-c2f6-44c2-82b6-d0f4f6e6af41",
+    "children": [],
+    "level": 3
+  },
+  "7419a78b-5bab-472c-8676-93c5a4168023": {
+    "title": "SEO (learn basic principles)",
+    "text": "SEO (learn basic principles)",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "8967d72a-b9b3-457f-9c6b-7c31ec525975"
+    ],
+    "level": 2
+  },
+  "8967d72a-b9b3-457f-9c6b-7c31ec525975": {
+    "title": "SEO (learn basic principles)",
+    "text": "SEO (learn basic principles)",
+    "parent": "7419a78b-5bab-472c-8676-93c5a4168023",
+    "children": [],
+    "level": 3
+  },
+  "09b40e47-8289-4041-86eb-00f7ec48d52b": {
+    "title": "How Google Ad and Adwords work",
+    "text": "How Google Ad and Adwords work",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "dc4d5554-3661-47b1-b091-a470b81440c1"
+    ],
+    "level": 2
+  },
+  "dc4d5554-3661-47b1-b091-a470b81440c1": {
+    "title": "How Google Ad and Adwords work",
+    "text": "How Google Ad and Adwords work",
+    "parent": "09b40e47-8289-4041-86eb-00f7ec48d52b",
+    "children": [],
+    "level": 3
+  },
+  "852aea46-7ec6-48ea-8da8-3531a7bff0b6": {
+    "title": "Have knowledge about Google Analytics",
+    "text": "Have knowledge about Google Analytics",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "706eb2a1-f2f9-4837-8326-cbe52ff30495"
+    ],
+    "level": 2
+  },
+  "706eb2a1-f2f9-4837-8326-cbe52ff30495": {
+    "title": "Have knowledge about Google Analytics",
+    "text": "Have knowledge about Google Analytics",
+    "parent": "852aea46-7ec6-48ea-8da8-3531a7bff0b6",
+    "children": [],
+    "level": 3
+  },
+  "303add9c-3d55-417a-962f-f26f80554d11": {
+    "title": "Books",
+    "text": "Books",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "300c2798-d388-4ff2-b159-53508af7abdf"
+    ],
+    "level": 2
+  },
+  "300c2798-d388-4ff2-b159-53508af7abdf": {
+    "title": "Books",
+    "text": "Books",
+    "parent": "303add9c-3d55-417a-962f-f26f80554d11",
+    "children": [],
+    "level": 3
+  },
+  "c0cc84a3-312d-4f19-984f-fa0ba3fa9c18": {
+    "title": "Decode and Conquer",
+    "text": "Decode and Conquer",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "0c6c6dea-babb-4145-a412-f5d0c55099ce"
+    ],
+    "level": 2
+  },
+  "0c6c6dea-babb-4145-a412-f5d0c55099ce": {
+    "title": "Decode and Conquer",
+    "text": "Decode and Conquer",
+    "parent": "c0cc84a3-312d-4f19-984f-fa0ba3fa9c18",
+    "children": [],
+    "level": 3
+  },
+  "2d93c049-1826-4c51-97e8-3959b903209c": {
+    "title": "Cracking the PM Interview",
+    "text": "Cracking the PM Interview",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "0eb6a721-964c-4c95-8658-faf16c9baff5"
+    ],
+    "level": 2
+  },
+  "0eb6a721-964c-4c95-8658-faf16c9baff5": {
+    "title": "Cracking the PM Interview",
+    "text": "Cracking the PM Interview",
+    "parent": "2d93c049-1826-4c51-97e8-3959b903209c",
+    "children": [],
+    "level": 3
+  },
+  "cbc7f38b-a77d-4355-88f2-db3fca678004": {
+    "title": "https://drive.google.com/file/d/1pu6ljOGWlWcWIK1AP",
+    "text": "https://drive.google.com/file/d/1pu6ljOGWlWcWIK1APd8pRt0yC1GbHg97/\nview?usp=sharing",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "eb50c22b-615f-4e29-897f-e7910a5a727d",
+      "8721ddda-5674-407a-a9ff-8e5a4271d2c6"
+    ],
+    "level": 2
+  },
+  "eb50c22b-615f-4e29-897f-e7910a5a727d": {
+    "title": "https://drive.google.com/file/d/1pu6ljOG",
+    "text": "https://drive.google.com/file/d/1pu6ljOGWlWcWIK1APd8pRt0yC1GbHg97/",
+    "parent": "cbc7f38b-a77d-4355-88f2-db3fca678004",
+    "children": [],
+    "level": 3
+  },
+  "8721ddda-5674-407a-a9ff-8e5a4271d2c6": {
+    "title": "view?usp=sharing",
+    "text": "view?usp=sharing",
+    "parent": "cbc7f38b-a77d-4355-88f2-db3fca678004",
+    "children": [],
+    "level": 3
+  },
+  "cdfba08c-8548-4a4f-9872-bfe3c7997122": {
+    "title": "Other Resources",
+    "text": "Other Resources",
+    "parent": "80d59d83-fa80-452f-b9ce-c9f6d9facccf",
+    "children": [
+      "e28378be-f52d-43c1-8a04-cfab309d035f"
+    ],
+    "level": 2
+  },
+  "e28378be-f52d-43c1-8a04-cfab309d035f": {
+    "title": "Other Resources",
+    "text": "Other Resources",
+    "parent": "cdfba08c-8548-4a4f-9872-bfe3c7997122",
+    "children": [],
+    "level": 3
+  },
+  "cafe9be6-5c7e-441f-97ac-b1d59026712e": {
+    "title": "SUPPL Y CHAIN",
+    "text": "",
+    "parent": "063be118-cf89-4b80-a1e3-bca947c19166",
+    "children": [
+      "63383319-cc8a-4aff-ba7f-942cc6056605",
+      "5af4c607-9157-418c-93ac-3ad0d8aa5dd5",
+      "bea57f5a-a1df-4842-9d1c-a95107ac36fa",
+      "0f98e597-215f-4600-b793-5f432143b251"
+    ],
+    "level": 1
+  },
+  "63383319-cc8a-4aff-ba7f-942cc6056605": {
+    "title": "Supply chain managers keep track of logistics and ",
+    "text": "Supply chain managers keep track of logistics and update the company’ s inventory .\nThey analyze operational performance and resolve issues. They also collaborate with\nvendors and suppliers to ensure all operations (e.g. shipping, delivery) meet quality and\nsafety standards. Their goal is to improve productivity and ef ficiency and reduce costs\nwhile securing high-quality material for their company .\nTo prepare for a supply chain role, here are some resources",
+    "parent": "cafe9be6-5c7e-441f-97ac-b1d59026712e",
+    "children": [
+      "be9d9505-aaac-4ca8-a89f-17b572c14f4f",
+      "8312d95f-b515-4a6c-9978-2e0ad6cbc960",
+      "613dadb3-5584-4955-9b21-c86138385e04",
+      "1a0f40dd-5d27-4124-9555-3d65534995bc",
+      "2cb785a4-b3c4-441d-b767-a77bc0110749",
+      "6e373c9c-817e-47b6-9d91-1fca3fd2e2e7"
+    ],
+    "level": 2
+  },
+  "be9d9505-aaac-4ca8-a89f-17b572c14f4f": {
+    "title": "Supply chain managers keep track of logi",
+    "text": "Supply chain managers keep track of logistics and update the company’ s inventory .",
+    "parent": "63383319-cc8a-4aff-ba7f-942cc6056605",
+    "children": [],
+    "level": 3
+  },
+  "8312d95f-b515-4a6c-9978-2e0ad6cbc960": {
+    "title": "They analyze operational performance and",
+    "text": "They analyze operational performance and resolve issues. They also collaborate with",
+    "parent": "63383319-cc8a-4aff-ba7f-942cc6056605",
+    "children": [],
+    "level": 3
+  },
+  "613dadb3-5584-4955-9b21-c86138385e04": {
+    "title": "vendors and suppliers to ensure all oper",
+    "text": "vendors and suppliers to ensure all operations (e.g. shipping, delivery) meet quality and",
+    "parent": "63383319-cc8a-4aff-ba7f-942cc6056605",
+    "children": [],
+    "level": 3
+  },
+  "1a0f40dd-5d27-4124-9555-3d65534995bc": {
+    "title": "safety standards. Their goal is to impro",
+    "text": "safety standards. Their goal is to improve productivity and ef ficiency and reduce costs",
+    "parent": "63383319-cc8a-4aff-ba7f-942cc6056605",
+    "children": [],
+    "level": 3
+  },
+  "2cb785a4-b3c4-441d-b767-a77bc0110749": {
+    "title": "while securing high-quality material for",
+    "text": "while securing high-quality material for their company .",
+    "parent": "63383319-cc8a-4aff-ba7f-942cc6056605",
+    "children": [],
+    "level": 3
+  },
+  "6e373c9c-817e-47b6-9d91-1fca3fd2e2e7": {
+    "title": "To prepare for a supply chain role, here",
+    "text": "To prepare for a supply chain role, here are some resources",
+    "parent": "63383319-cc8a-4aff-ba7f-942cc6056605",
+    "children": [],
+    "level": 3
+  },
+  "5af4c607-9157-418c-93ac-3ad0d8aa5dd5": {
+    "title": "Supply Chain Management by Chopra and Meindl",
+    "text": "Supply Chain Management by Chopra and Meindl",
+    "parent": "cafe9be6-5c7e-441f-97ac-b1d59026712e",
+    "children": [
+      "b01e4689-21fb-41c6-b618-4849b7b49ddb"
+    ],
+    "level": 2
+  },
+  "b01e4689-21fb-41c6-b618-4849b7b49ddb": {
+    "title": "Supply Chain Management by Chopra and Me",
+    "text": "Supply Chain Management by Chopra and Meindl",
+    "parent": "5af4c607-9157-418c-93ac-3ad0d8aa5dd5",
+    "children": [],
+    "level": 3
+  },
+  "bea57f5a-a1df-4842-9d1c-a95107ac36fa": {
+    "title": "Group Discussion Prep V ideos on Youtube",
+    "text": "Group Discussion Prep V ideos on Youtube",
+    "parent": "cafe9be6-5c7e-441f-97ac-b1d59026712e",
+    "children": [
+      "3a44d5b8-b21f-4c0b-a532-699230e851af"
+    ],
+    "level": 2
+  },
+  "3a44d5b8-b21f-4c0b-a532-699230e851af": {
+    "title": "Group Discussion Prep V ideos on Youtube",
+    "text": "Group Discussion Prep V ideos on Youtube",
+    "parent": "bea57f5a-a1df-4842-9d1c-a95107ac36fa",
+    "children": [],
+    "level": 3
+  },
+  "0f98e597-215f-4600-b793-5f432143b251": {
+    "title": "More Resources",
+    "text": "More Resources",
+    "parent": "cafe9be6-5c7e-441f-97ac-b1d59026712e",
+    "children": [
+      "73ea7605-5602-4c0c-8d74-6670828c9cab"
+    ],
+    "level": 2
+  },
+  "73ea7605-5602-4c0c-8d74-6670828c9cab": {
+    "title": "More Resources",
+    "text": "More Resources",
+    "parent": "0f98e597-215f-4600-b793-5f432143b251",
+    "children": [],
+    "level": 3
+  },
+  "bfe89a3f-fb66-41cc-8467-cc7bcb8600b1": {
+    "title": "OTHER IMPORT ANT FUNDAE",
+    "text": "",
+    "parent": "063be118-cf89-4b80-a1e3-bca947c19166",
+    "children": [
+      "afb361cb-27ce-477b-a639-52e764a1344e",
+      "a96c6dae-ef5f-4a45-aebc-48a2cd114e5a"
+    ],
+    "level": 1
+  },
+  "afb361cb-27ce-477b-a639-52e764a1344e": {
+    "title": "1.",
+    "text": "1.\nSoft Skills Guide by Communique",
+    "parent": "bfe89a3f-fb66-41cc-8467-cc7bcb8600b1",
+    "children": [
+      "0a481129-9431-47f4-819e-06f2b88f883a",
+      "c68e434f-98dd-484e-9325-b62a75079456"
+    ],
+    "level": 2
+  },
+  "0a481129-9431-47f4-819e-06f2b88f883a": {
+    "title": "1.",
+    "text": "1.",
+    "parent": "afb361cb-27ce-477b-a639-52e764a1344e",
+    "children": [],
+    "level": 3
+  },
+  "c68e434f-98dd-484e-9325-b62a75079456": {
+    "title": "Soft Skills Guide by Communique",
+    "text": "Soft Skills Guide by Communique",
+    "parent": "afb361cb-27ce-477b-a639-52e764a1344e",
+    "children": [],
+    "level": 3
+  },
+  "a96c6dae-ef5f-4a45-aebc-48a2cd114e5a": {
+    "title": "KGP  Life Fundae",
+    "text": "KGP  Life Fundae",
+    "parent": "bfe89a3f-fb66-41cc-8467-cc7bcb8600b1",
+    "children": [
+      "71bdedce-9267-48a6-8dd6-b3a69c165fda"
+    ],
+    "level": 2
+  },
+  "71bdedce-9267-48a6-8dd6-b3a69c165fda": {
+    "title": "KGP  Life Fundae",
+    "text": "KGP  Life Fundae",
+    "parent": "a96c6dae-ef5f-4a45-aebc-48a2cd114e5a",
+    "children": [],
+    "level": 3
+  }
+}

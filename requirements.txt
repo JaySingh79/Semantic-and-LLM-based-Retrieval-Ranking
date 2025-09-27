@@ -3,3 +3,7 @@ pandas
 rank-bm25
 sentence-transformers
 Flask>=2.0
+pypdf
+PyPDF2
+datasets
+faiss-cpu
