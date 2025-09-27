@@ -1,4 +1,3 @@
-# app.py
 from flask import Flask, render_template, request, jsonify, send_from_directory
 import pandas as pd
 import html
@@ -7,14 +6,12 @@ from reranker import SBERTReRanker
 
 app = Flask(__name__, static_folder="static", template_folder="templates")
 
-# Load data and models (adjust file paths as needed)
 df = pd.read_csv("Reranking_prac.csv")
 bm25 = BM25Retriever(df["content"].tolist())
 sbert = SBERTReRanker()
 
 
 def build_snippet(text, q, length=300):
-    # Simple snippet: show the first occurrence of any query term if possible
     q_terms = [t.lower() for t in q.split() if t.strip()]
     lowered = text.lower()
     pos = -1
@@ -45,7 +42,7 @@ def search():
     if not query:
         return jsonify({"error": "Please provide a query."}), 400
 
-    # Stage 1: BM25 retrieval
+    # BM25 retrieval
     bm25_results = bm25.search(query, topk=topk)  # returns list of (doc_index, score)
     bm25_list = []
     for rank, (doc_idx, score) in enumerate(bm25_results, start=1):
@@ -60,7 +57,6 @@ def search():
             "snippet": html.escape(snippet)
         })
 
-    # Stage 2: SBERT re-rank (reranker expects the bm25_docs; returns list of (pos_in_bm25_docs, score))
     bm25_docs = [df.iloc[idx]["content"] for idx, _ in bm25_results]
     try:
         reranked = sbert.rerank(query, bm25_docs, topk=topk)
@@ -98,5 +94,4 @@ def static_proxy(pth):
 
 
 if __name__ == "__main__":
-    # debug True for development; set to False in production
     app.run(host="0.0.0.0", port=7860, debug=True)
