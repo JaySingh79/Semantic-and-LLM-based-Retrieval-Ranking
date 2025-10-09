@@ -6,6 +6,11 @@ This repository provides an analysis and implementation of retrieval and ranking
 - Graph-based retrievers and rankers
 - Semantic similarity-based retrieval methods
 
+
+## Good Read
+[Reranking Model Selection | galileo.ai](https://galileo.ai/blog/mastering-rag-how-to-select-a-reranking-model)
+[LLM for IR paper](https://arxiv.org/abs/2308.07107)
+
 ## File Structure
 
 - `app.py`, `app_vanillaJS.py` – Main application scripts (Python and JS integration)
