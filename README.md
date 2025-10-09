@@ -8,8 +8,8 @@ This repository provides an analysis and implementation of retrieval and ranking
 
 
 ## Good Read
-[Reranking Model Selection | galileo.ai](https://galileo.ai/blog/mastering-rag-how-to-select-a-reranking-model)
-[LLM for IR paper](https://arxiv.org/abs/2308.07107)
+- [Reranking Model Selection | galileo.ai](https://galileo.ai/blog/mastering-rag-how-to-select-a-reranking-model)
+- [LLM for IR paper](https://arxiv.org/abs/2308.07107)
 
 ## File Structure
 
